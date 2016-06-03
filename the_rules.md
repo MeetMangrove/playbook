@@ -26,7 +26,7 @@ Two ways of participating :
 - When a member brings business to another member, she/he can ask for a commission
 - The percentage or amount of this commission is negociated ad hoc between the two parts and publicly shared in Mangrove
 - The history of the preceeding negociations serves as a basis for 
-- 
+
 ### Integrating new members
 - Unanimous validation (+1 or abstains, be no -1)
 - Recruitment questions :
@@ -36,5 +36,5 @@ Two ways of participating :
 
 ### Mangrove Friends
 - adding : validated by at least two Mangrove members
-- 
+
 
