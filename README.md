@@ -1,6 +1,4 @@
 # Mangrove Playbook
 
-This file serves as your book's preface, a great place to describe your book's content and ideas.
-
-[Mangrove Playbook description]
+[Mangrove Playbook description & preface]
 
