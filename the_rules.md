@@ -1,11 +1,11 @@
 # The rules
 
-## Process internes à la communauté
-### Huddles hebdomadaires
+### Process internes à la communauté
+##### Huddles hebdomadaires
    - point mood de 5 min par personne : Pro freelance & projets (passé & à venir), mangrove, perso
    - débriefings nécéssaires, échanges sur les sujets importants, décisions pour la suite
 
-###  Pairing
+#####  Pairing
 
 
 ## Gestion des projet
