@@ -1,53 +1,51 @@
 # Being a member
 
-Être un membre de Mangrove, c'est
+Being a member of Mangrove means
 
 
 
-### Garder contamment à l'esprit sa raison d'être 
+### Always keeping in mind its purpose 
 
-**Garder** constamment **à l’esprit sa raison d’être** et oeuvrer collectivement à son accomplissement (the mission is your boss)
-
-
-
-### Partager son idéal
-
-Partager son idéal commun de l’épanouissement professionnel, qui est constitué de la bienveillance, la confiance, le sens du collectif, la liberté, l’envie de grandir (dont : humilité), les individualités diverses  .   Et :
-    Ouverture / Curiosité
-    Réfléchi / Recul / Capacité à identifier la norme sociale
-    Franchise / Clarté / Maturité relationnelle
-    Positive Mindset & Energy
-    Entrepreneurial / Ambitieux
-    Ecoute
-     Humour / Décalage
+And work together as one towards it. (the mission is your boss)
 
 
+### Sharing its ideal
+
+Mangrove's ideal of professional fulfillment consists of benevolence, confidence, sense of collectiveness, freedom, will to grow (including : humility), diverse individualities. And :
+    Openness / Curiosity
+    Thoughtful / Insightful / Ability to identify the social norm
+    Franchise / Clarity / Relational maturity
+    Positive mindset & Energy
+    Entrepreneurial / Ambitious
+    Good at listening to people
 
 
-### Partager ses convictions 
+### Sharing its convictions 
+We belive in :
+- transparency
+- technology as organizational lever
+- flat / non-hiererchical organisations
+- open source and public sharing
 
-Nos convictions sont celles que la transparence, de la technologie comme levier organisationnel, des bienfaits du non hiérarchique pour réaliser la mission ; l’open source et le partage avec l’extérieur
+
+### Adhering to its rules and habits, and helping improving them
+- pairing
+- 'empty seat technique', representing the purpose during decision making meetings
+
+### Experimenting together
+Experimenting together new modes of organization and governance
+- governance in Mangrove is decentralized. Currently, we do X Y Z (eg : freedom of taking initiatives ; immediate transparency about most actions)
+- how projects work : project leaders gathering 'project circles'. Possibility of having coaches
 
 
+### Being implied in the life and the construction of the ecosystem
+- taking part in the collective effort, going from the essential small tasks to the recurring missions necessary to Mangrove's life and to the big realizations allowing its expansion
+- integrating to the community and to its everyday life
+- putting one's skills and resources to the service of the community
+- being proactive, undertaking initiatives and being a driving force of projects aligned with Mangrove's shared vision
 
-### Adhérer aux pratiques et aux règles en place, et être acteur de leur amélioration
-- pratique du pairing
-- du siège vide qui représente le purpose dans les décisions
-
-### Expérimenter ensemble
-* Expérimenter ensemble des modes d’organisation et de gouvernance
-- la gouvernance est décentralisée. le fonctionnement actuel est X Y Z (ex : liberté d’initiative + transparence immédiate sur la plupart des actions, )
-- mode de fonctionnement des projets : par responsables qui réunissent des cercles projets. Possibilité d’avoir des coachs
-
-### Être impliqué dans la vie et la construction de l’écosystème
-- participer à l’effort collectif, allant des petites tâches indispensables aux missions régulières assurant sa survie et aux grandes réalisations permettant son expansion
-- s’intégrer à la communauté et à sa vie de tous les jours
-- mettre ses compétences et ses ressources au service de la communauté
-- être proactif, prendre des initiatives et être moteur sur des projets allant dans le sens de la vision commune
-
-### Représenter l’écosystème 
-- incarner ses valeurs et son idéal, aussi bien lors de temps forts qu’au quotidien
-
+### Representing the ecosystem
+- embody its values and and its ideal, during highlight moments as well as in everday life
 
 
 
