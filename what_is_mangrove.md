@@ -2,6 +2,6 @@
 
 [TO TRANSLATE]
 
-Mangrove est un écosystème d’individus partageant le même idéal de l’épanouissement professionnel, expérimentant un nouveau mode de travail en accord avec cet idéal, et entraînant dans son sillage tous ceux qui s’y reconnaissent
+Mangrove is an ecosystem of freelancers sharing the same ideal of professional fulfillment. It experiments a new way of working following this ideal, and brings into its wake all those who are sensitive to it.
 
-Il n’est possédé par personne et n’a pas de leaders.  Il se rapproche de ce qu’on décrit parfois comme une Teal Organisation
+It is not owned by anyone and has no leaders. It is close to what is sometimes described as a Teal Organization.
