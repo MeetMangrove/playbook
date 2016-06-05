@@ -94,9 +94,25 @@ Key steps:
  2. Onboard him/her by taking the time to explain how things are going lately, and refer to this playbook.
  3. Invite to Slack, Google Drive & Trello.
  4. Make a starting point with the most MM possible
+> Diner or appear.in are good options.
 
+ 6. Update meetmangrove.com/us with a PR (or ask someone who knows how to do it).
+ 6. Slack bots Rachid and Pairing Dancers will be updated automatically.
+ 7. Yeah you're done!
+ 8. ...but you're in charge of the trial period as well
 
 **Trial period**
+
+When someone joins Mangrove, he starts a trial period of 3 months. The goal is to see if the fit is real, so it work both ways (the new member might not feel good inside such an organisation for ex).
+
+Trial steps:
+
+1. Day 0 - Starting Point
+2. Day 30 - First month review
+> Gather at least 5 MM (appear.in or diner). See how things are going, both ways. At the end of the review decide to continue or to stop (go back to MF).
+
+3. Day 90 - Final decision
+> Gather at least 5 MM (appear.in or diner). See how things are going, both ways. At the end of the review decide to end the trial by giving a definitive membership or by going back to MF.
 
 
 ### Internal processes
@@ -119,7 +135,7 @@ Two ways of participating :
 - Participating to a project led by another member without taking any public responsibility. Accountable to this member according to the commitment taken
 
 ### Debriefings
-- The meetings related to mangrove, and the important actions done for Mangrove are subject to a written debriefing shared internally - the quicker the better.
+- The meetings related to mangrove, and the important actions done for Mangrove are subject to a written debirefing shared internally - the quicker the better.
 
 ### Commissions
 - When a member brings business to another member, she/he can ask for a commission
@@ -134,33 +150,6 @@ Two ways of participating :
 
 
 ### Mangrove Friends
-Mangrove Friends are people revolving around Mangrove. They share the mindset, the vision and are interested in being part of the ecosystem. 
-
-Some of the benefits of being a mangrove friend includes:
-
-- Being invited to the Mangrove retreats
-- Being part of the Slack “Mangrove Friends” which contains several helpful services
-  - Pay forward / Promotion from the community
-  - Early announcements of Mangrove Events
-  - Help by experts in different subjects (copywriting, ux, code, etc)
-  - Pairing (if wanted) with other Mangrove Friends
+- adding : validated by at least two Mangrove members
 
 
-### Ownership
-Mangrove members own no asset within Mangrove. When an asset is sold, leased or produce valuable output, the financial value is processed within the classical framework of profit redistribution [link].
-
-While all assets belong to Mangrove, a person is appointed as responsible for a period of time to be determined, depending on the context. Being responsible of an asset means that we have to take care of it [link to sheperding], in exchange of its use. 
-
-When a member leaves Mangrove, he takes no assets back. He has to delegate the responsibilities he has over the assets to other members. A council with the other people affected by this transmission [see decision making]. 
-
-A member cannot use Mangrove assets for personal use, as it doesn’t help the purpose of Mangrove. However, he can ask to affected members to buy or lease it with associated guarantees.
-
-Example of assets (to detail): House, Drone, 
-
-
-### Compensation & Profits
-All profits generated within Mangrove should be reinvested in other Mangrove projects. (ça suppose quand même que mangrove possède un statut juridique et peut recevoir de l’argent)
-
-The investments in the different Mangrove projects have to be determined between the different project leaders and go through the conflict resolution system if needed [see link]. 
-
-A treasurer has to be elected every 3 months and is hold responsible of the financial flows. He has to regularly check the #finance channel in order to register the cashflows on his favorite accounting system and publicly communicate the balances every 2 weeks, the debts of Mangrove towards its members, and the distribution of the refunds.
