@@ -1,6 +1,6 @@
 # How To
 
-### Organise a retreat
+### Organize a retreat
 
 
 A retreat is an important part of Mangrove: it’s actually where Mangrove was born in January 2016 in Essaouira, Morocco. It’s a time to step back from your daily life and get out of your comfort zone to experiment a 3-weeks co-living with the Mangrove Friends community.
@@ -67,11 +67,11 @@ Everybody is welcome to join us to talk about new lifestyles and meet awesome fr
 
 **The announcement**
 
-- **Facebook Event** create a Facebook event to measure the number of attendees
-- **Facebook Posts** 2 posts on the Mangrove Facebook page to let our fans know about the event (you can find some samples in the Google Drive)
-- **Twitter** 2 tweets on the Mangrove twitter account to let the community know about the event
-- **Newsletter** newsletter to the Mangrove mailing list the week before the event to let the suscribers know about the event.
-- **Mangrove Friends** A message in the Mangrove Friends Slack to help us to create a huge word of mouth.
+- **Facebook Event** : create a Facebook event to measure the number of attendees
+- **Facebook Posts** : publish two posts on the Mangrove Facebook page to let our fans know about the event (you can find some samples in the Google Drive)
+- **Twitter** : publish two tweets on the Mangrove twitter account to let the community know about the event
+- **Newsletter** : One newsletter to the Mangrove mailing list the week before the event to let the suscribers know about the event.
+- **Mangrove Friends** : publish a message in the Mangrove Friends Slack to help us to create a huge word of mouth.
 
 **The D-Day**
 
