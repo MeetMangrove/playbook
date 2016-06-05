@@ -58,10 +58,19 @@ Ex:
       - There are more people sleeping in the house than planned. Some mangrove members decide to sleep on the couch to let guest have beds.
 
 
-### Weekly huddles
-   - mood standups, 5min/pers : Pro, freelance & projects (past & to come), mangrove, perso
-   - necessary debriefings, discussions about important topics, decisions for the future
+### Weekly meetings
+Online or offline.
+The goal of these meetings is to share with everyone your mood, what you have done for Mangrove in the last 7 days and what is next (5-10 min/person).
+Every Mangrove member is expected to attend more than 3/4 of weekly meetings and shouldn't miss 2 meetings in a row (except if on vacation).
+If she cannot attend, she needs to share publicly the information before the meeting.
   
+### Vacations
+Up to 5 weeks without being implied in Mangrove.
+More than 5 weeks = becoming a Mangrove friend temporarily and not being responsible for Mangrove projects anymore.
+
+### Engagement issues
+If 3 members agree on a lack of engagement from a Mangrove member, they need to talk to this member and share publicly that this talk happened.
+45 days later, if 3 members (not necessarily the same ones) are still unsatisfied about this member’s engagement, they should share the information publicly and ask for a vote: “Should this member still be an  Mangrove member?". If more than 30% of the voters agree that she should become a Mangrove friend, the member becomes a Mangrove friend (= no more responsibilities within Mangrove) or can leave the community.
 
 ### Integrating new members
 
