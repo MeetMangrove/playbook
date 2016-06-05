@@ -17,7 +17,7 @@ Here’s the points you have to check while searching the house:
 - a dishwasher
 - some good waves 
 
-Once you’ve found 3 perfect matchs, share your find with the Mangrove community to validate the finale house.
+Once you’ve found at least 3 perfect matches, share your find with the Mangrove community to validate the finale house.
 
 **The guests**
 
