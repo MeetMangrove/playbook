@@ -142,7 +142,7 @@ Two ways of participating :
 ### Mangrove Friends
 Mangrove friends are people revolving around Mangrove. They share the mindset, the vision and are interested in being part of the ecosystem. 
 
-Some of the benefits of being a mangrove friend includes:
+Some of the benefits of being a mangrove friend include:
 
 - Being invited to the Mangrove retreats
 - Being part of the Slack “Mangrove Friends” which contains several helpful services
