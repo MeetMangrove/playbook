@@ -89,9 +89,11 @@ If you need the password, contact a MM by private message on Slack.
 
 Using emoji is highly recommended 💙
 
-### Update our website
+### Impact existing assets
+Existing assets include: website, bots, branding.
+Ask the advice of the person leading the asset and other members who are expert on the topic about the change you’d like to make.
+If you still want to make it and some people are against, ask for a vote (each voter being pondered by each member’s public influence based on contribution) and if you get less than 30% of voters against the change (yes, no, IDK), you can make it.
 
-Please contact the admin by using the channel #website.
 
 ### Deal with our mailing list
 
@@ -99,6 +101,8 @@ Please contact the admin by using the channel #website.
 ### Impact existing assets
 
 ### Onboard a new member
+Every new member gets to choose 2 mentors who are gonna have a weekly call with her. They are supposed to provide the help needed on a personal level (Mangrove integration, mood) & on a professional level (projects & revenue).
+After 3 months, the new member picks publicly 10 people that are supposed to decide if she should become a confirmed Mangrove member. These 10 people vote anonymously (yes, no, IDK). If there is less than 7 yes, this member becomes a Mangrove friend.
 
 ### Buy something for mangrove
 
@@ -111,8 +115,23 @@ When it has been decided that something has to be bought by you for Mangrove, pl
 
 
 ### Onboard a mangrove friend
+Ask some information (Typeform):
+    - Full Name
+    - Email
+    - Twitter handle (if no: LinkedIn)
+    - Postal address
+    - Personal picture
+    - Top 3 skills
+    - Status: Founder, freelancer or employee
+    - If founder or employee: name & URL of company
+    - Background in 200 characters
+The 1st member who suggested her as an MF will introduce her as soon as she joins the slack dedicated to the MF community.
+Ex: Hey all, I’m glad to introduce you to [name]. I met her/him [somewhere]. (S)he’s skilled at [top 3 skills]. Her/his background in a few words [///]. Follow her on Twitter here: [account].
 
 ### Start a new project
+When you want to start a new project, you need to:
+- ask for advice from the people who are the most skilled to help you
+- share publicly about the project you are starting if people want to participate.
 
 ### Animate mangrove friends
 
