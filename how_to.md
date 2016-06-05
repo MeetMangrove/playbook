@@ -14,7 +14,7 @@ First, you’ll have to talk with the Mangrove members and get their approval ab
 
 Here’s the points you have to check while searching the house:
 - a very good WIFI
-- a calm place
+- a quiet place
 - a dishwasher
 - some good waves 
 
@@ -81,13 +81,19 @@ Be sure to be the first at the bar to welcome the guest. Make yourself available
 
 ### Handle our social media accounts
 
-Each member may create and post content on the social media accounts. All posts must serve the interest of the Mangrove community. In other words, there should be no personal projects unless it's in the spirit of Mangrove.
+Each member may create content for the Mangrove social media accounts. All posts must serve the interest of the Mangrove community. In other words, there should be no personal projects unless it's in the Mangrove spirit.
 
-Each post should be a discussion with at least one member of the community. When you get an approval from a MM, you can directly post on the accounts. 
+Each 6 months, a community leader is appoint by the Mangrove members. His role is too handle a fluid publication calendar. 
 
-If you need the password, contact a MM by private message on Slack.
+As a Mangrove member, if you want to publish a content, you must refer to the community lead - he is the only one who can decide the publication timing, and give you the final approval. Once you know the publication timing, you can publish the content by yourself.
+
+If you need the password, contact the community lead by private message on Slack.
 
 Using emoji is highly recommended 💙
+
+### Send emails with Mangrove
+
+As a Mangrove member, you'll need to promote some of our events and contents. Feel free to use our mailing list by using Mailchimp. Follow the previous templates. If you need the password, contact the community lead by private message on Slack.
 
 ### Impact existing assets
 Existing assets include: website, bots, branding.
@@ -97,8 +103,6 @@ If you still want to make it and some people are against, ask for a vote (each v
 
 ### Deal with our mailing list
 
-
-### Impact existing assets
 
 ### Onboard a new member
 Every new member gets to choose 2 mentors who are gonna have a weekly call with her. They are supposed to provide the help needed on a personal level (Mangrove integration, mood) & on a professional level (projects & revenue).
