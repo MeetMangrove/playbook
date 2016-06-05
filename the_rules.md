@@ -18,12 +18,13 @@ If you bill a new mission to a client, write a brief summary on #missions. It he
 
 Ex:
 
-```*StartupName*: 
-1200$ per month 
-4 hours per week
-- 3 Facebook posts per week
-- 3 tweets per week (and some RT and Like for the other days)
-- 1 daily check for the comments and questions (PM)```
+      Startup Name
+
+      1200$ per month 
+      4 hours per week
+      - 3 Facebook posts per week
+      - 3 tweets per week (and some RT and Like for the other days)
+      - 1 daily check for the comments and questions (PM)
 
 **3 - #debrief**
 
