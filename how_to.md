@@ -117,7 +117,7 @@ When it has been decided that something has to be bought by you for Mangrove, pl
 
 ### Animate mangrove friends
 
-As a Mangrove member, you'll have to ensure that the MF community is well-animated by posting regularly, giving feedbacks and helping the community.
+As a Mangrove member, you'll have to ensure that the MF community is well-animated by posting regularly, giving feedbacks and helping people.
 
 ### Pitch mangrove
 
