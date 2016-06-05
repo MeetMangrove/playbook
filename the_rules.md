@@ -36,21 +36,21 @@ Key elements:
 
 Ex:
 
-```*Skype with Pedro X, launching a fintech startup*
-- Nice guy, I used to work with him at YYY
-- He’s launching a fintech startup similar to Number26
-- It’s still really early stage but he’s planning to begin by gathering bank accounts in one place and let people spare on a virtual jackpot.
-- Looking for a CTO.
-=> Will need help on UX and code soon. Maybe a mission for some of us.
-```
+    Skype with Pedro X, launching a fintech startup
+    - Nice guy, I used to work with him at YYY
+    - He’s launching a fintech startup similar to Number26
+    - It’s still really early stage but he’s planning to begin by gathering bank accounts in one place and let people spare on a virtual jackpot.
+    - Looking for a CTO.
+    => Will need help on UX and code soon. Maybe a mission for some of us.
+
 
 ### When on a Mangrove retreat, education or event
 
 Mangrove members are responsible for what’s happening and take responsibilities.
 
 Ex:
-```  -  Internet is not working. Mangrove members in the room find a solution.
-  - There are more people sleeping in the house than planned. Some mangrove members decide to sleep on the couch to let guest have beds.```
+     -  Internet is not working. Mangrove members in the room find a solution.
+      - There are more people sleeping in the house than planned. Some mangrove members decide to sleep on the couch to let guest have beds.
 
 
 ### Internal processes
