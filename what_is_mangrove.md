@@ -1,13 +1,14 @@
 # What is Mangrove
 
-Mangrove is an ecosystem of freelancers sharing the same ideal of professional fulfillment. It experiments a new way of working following this ideal, and brings into its wake all those who are sensitive to it.
+Mangrove is an ecosystem of tech enthusiasts sharing the same ideal of professional fulfillment. It experiments a new way of working following this ideal, and brings into its wake all those who are sensitive to it.
 
 
 ### Mangrove's purpose and ideal
 
 The purpose of Mangrove as an organization is the professional fulfillment of its members.
 
-Mangrove's ideal of professional fulfillment consists of working in a climate of benevolence, confidence, sense of collectiveness, freedom, will to grow (including : humility), diverse individualities. And :
+[DRAFT - TO WRITE]
+Mangrove's ideal of professional fulfillment consists of working in a climate of benevolence, trust, sense of collectiveness, freedom, will to grow (including : humility), diverse individualities. And :
     Openness / Curiosity
     Thoughtful / Insightful / Ability to identify the social norm
     Franchise / Clarity / Relational maturity
@@ -32,10 +33,7 @@ Scalable technology combined with our values makes us stronger. It allows us to 
 ### An organic, agile and listening structure.
 Mangrove is an ecosystem both open to its environment and anchored with deep roots: we keep evolving but our values never change.
 
-It is not owned by anyone and has no leaders. It is close to what is sometimes described as a Teal Organization.
-
-Mangrove knows how to listen to the outside. 
-Mangrove also knows how to listen to itself. It is energy-driven, not long-term plans driven. There is nothing in particular its wants to see happen. Most of thing that will happened will be unexpected, unplanned, and will just be the result of it’s members inner energies and passions, canalised in a common direction by the shared vision and ideal. 
+It is not owned by anyone and is not led by an identified leader. It is inspired from different models of new organizations, like the Teal Organization and Holacracy.
 
 
 # Mangrove friends
