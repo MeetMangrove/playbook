@@ -152,6 +152,24 @@ Two ways of participating :
 ### Mangrove Friends
 - adding : validated by at least two Mangrove members
 
+
+### Conflict Resolution
+
+Conflicts happen. It's ok.
+
+**The conflict is about a project inside Mangrove.
+**
+
+- Refer to the lead of the project who will act as a coach and resolve the conflict.
+- If the problem is a lack of leadership or at least you feel it wrong, begin to talk directly with the lead on the project about it. The sooner the better.
+- If it doesn't work, talk about it on #general. Don't forget to stay benevolent. Everybody is on the same mission here, and shit happens. Talk about the project, not the people. Smile :)
+
+**The conflict is about Mangrove itself.
+**
+- Refer to "What is Mangrove" and "The Rules" to see if you can resolve it in an easy way by following a written rule.
+- Talk about it asap on #general. Transparency is one of the key values of Mangrove. No one should be affraid to express misunderstandings or divergent opinions.
+
+
 ### Modifying the Playbook
 
 Any MM can modify the "how to" part of the playbook. He/she must talk about the changes in #playbook.
