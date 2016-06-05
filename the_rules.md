@@ -191,3 +191,31 @@ Mangrove members are free to work from wherever they want. However, we have an o
 **2 - Hubs**
 
 As an MM, you’re welcome to create hubs all around the world. Mangrove hubs are gathering members in a common city. For example, if 4 members are located in Austin, TX, they can create a Mangrove hub there by finding an office and working together. 
+
+### Conflict Resolution
+
+Conflicts happen. It's ok.
+
+**The conflict is about a project inside Mangrove.
+**
+
+- Refer to the lead of the project who will act as a coach and resolve the conflict.
+- If the problem is a lack of leadership or at least you feel it wrong, begin to talk directly with the lead on the project about it. The sooner the better.
+- If it doesn't work, talk about it on #general. Don't forget to stay benevolent. Everybody is on the same mission here, and shit happens. Talk about the project, not the people. Smile :)
+
+**The conflict is about Mangrove itself.
+**
+- Refer to "What is Mangrove" and "The Rules" to see if you can resolve it in an easy way by following a written rule.
+- Talk about it asap on #general. Transparency is one of the key values of Mangrove. No one should be affraid to express misunderstandings or divergent opinions.
+
+
+### Modifying the Playbook
+
+Any MM can modify the "how to" part of the playbook. He/she must talk about the changes in #playbook.
+
+Changes in "What is Mangrove", "Being a member" and "The rules" need the approval of the overall community (only +1 or 0, no -1).
+
+> When we'll reach 20 members, an absolute number of point will be necessary to edit these parts.
+
+Request access in #playbook to begin editing.
+
