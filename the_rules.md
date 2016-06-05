@@ -6,20 +6,11 @@
 Like every company, we have a daily routine. The only difference is that it’s not about drinking coffee or bitching about our boss. It’s lighter but present, everyday.
 
 
----
-
-
-
 ****1 - Pairing****
 
 Every week, the Pairing Dancers give you a new buddy. Call him/her 10 minutes everyday from monday to friday. You can talk about your day, both pro and personal, if you feel comfortable with it. Listening is as important as talking.
 
 > Tips: Make sure to get in touch on monday to set the ideal time for a call during the week.
-
-
-
----
-
 
 
 
@@ -65,6 +56,30 @@ Mangrove members are responsible for what’s happening and take responsibilitie
 Ex:
      -  Internet is not working. Mangrove members in the room find a solution.
       - There are more people sleeping in the house than planned. Some mangrove members decide to sleep on the couch to let guest have beds.
+
+
+### Integrating new members
+
+After sharing a retreat or a project with a Mangrove Friend, we can decide to integrate him/her to our core team.
+
+The question is raised by a Mangrove member and all members must approve it.
+
+
+> When Mangrove reaches 10 members, we'll switch to 5 randomly chosen Mangrove members.
+
+Here are the main points that must be checked before admitting someone:
+
+1. Is he/she sharing our values? Does he/she believe in the vision we're trying to build?
+2. Has he/she proved his/her will to get involved on a daily basis in the building of Mangrove in the long-term?
+3. Does he/she has an entrepreneurial mindset? 
+
+> Side projects are a good way to evaluate this.
+
+
+4. Does he/she possess amazing skills in his/her field ?
+5. Would it be ok to have that person as a leader of Mangrove project?
+
+
 
 
 ### Internal processes
