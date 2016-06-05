@@ -5,7 +5,7 @@
 
 A retreat is an important part of Mangrove: it’s actually where Mangrove was born in January 2016 in Essaouira, Morocco. It’s a time to step back from your daily life and get out of your comfort zone to experiment a 3-weeks co-living with the Mangrove Friends community.
 
-Learn here how to set up and live a perfect Mangrove retreat:
+Learn here how to set up and live a perfect Mangrove retreat [add Portugal templates as an example (no need to reformat it for now):
 
 
 **The spot**
@@ -29,11 +29,11 @@ Keep in mind to have well-diversified batchs.
 
 **The booking**
 
-If you can pay in advance, just warn the community you’re ready to pay the house. If you’re not able to advance the fees, you will talk with the community to find someone who can pay the house. Then, you have to pay back this member by asking the first Mangrove Friends to pay their rent. 
+If you can pay in advance, just warn the community you’re ready to pay the house. If you’re not able to advance the fees, you will talk with the community to find someone who can pay the house. Then, you have to pay back this member by asking the first Mangrove Friends to pay their rent [see buying something for Mangrove] 
 
 **The planning**
 
-Create a shared Google sheet to proceed to the batch. You will have to ask to the participants to choose their ideal week. Once someone have chosen his dates, you can directly proceed to the payment and confirm his venue.
+Create a shared Google sheet to manage the batch. You will have to ask to the participants to choose their ideal week. Once someone have chosen his dates, you can directly proceed to the payment and confirm his venue.
 
 **The survival kit**
 
@@ -59,7 +59,7 @@ Learn here how to set up a Mangrove Monthly meeting:
 
 **The spot**
 
-As a monthly meeting leader, you’re in charge of booking a bar with a capacity of 70+ people. Pick a selection of 3 bars on the date that best suit and let the Mangrove community vote.
+As a monthly meeting leader, you’re in charge of booking a bar with a capacity of 70+ people (depending on the community size in your hub). Pick a selection of 3 bars on the date that best suit and let the Mangrove community vote.
 
 **The guest**
 
@@ -67,11 +67,11 @@ Everybody is welcome to join us to talk about new lifestyles and meet awesome fr
 
 **The announcement**
 
-- Facebook : create a Facebook event to measure the number of attendees.
-- Facebook : 2 posts on the Mangrove Facebook page to let our fans know about the event.
-- Twitter : 2 tweets on the Mangrove twitter account to let the community know about the event.
-- Newsletter : 1 newsletter to the Mangrove mailing list the week before the event to let the suscribers know about the event.
-Mangrove Friends : a message in the Mangrove Friends Slack to help us to create a huge word of mouth.
+- **Facebook Event** create a Facebook event to measure the number of attendees
+- **Facebook Posts** 2 posts on the Mangrove Facebook page to let our fans know about the event (you can find some samples in the Google Drive)
+- **Twitter** 2 tweets on the Mangrove twitter account to let the community know about the event
+- **Newsletter** newsletter to the Mangrove mailing list the week before the event to let the suscribers know about the event.
+- **Mangrove Friends** A message in the Mangrove Friends Slack to help us to create a huge word of mouth.
 
 **The D-Day**
 
@@ -80,7 +80,7 @@ Be sure to be the first at the bar to welcome the guest. Make yourself available
 
 ### Handle our social media accounts
 
-Each member may create and post content on the social media accounts. All posts must serve the interest of the Mangrove community.
+Each member may create and post content on the social media accounts. All posts must serve the interest of the Mangrove community. In other words, there should be no personal projects unless it's in the spirit of Mangrove.
 
 Each post should be a discussion with at least one member of the community. When you get an approval from a MM, you can directly post on the accounts. 
 
