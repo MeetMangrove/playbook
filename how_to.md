@@ -114,13 +114,12 @@ When it has been decided that something has to be bought by you for Mangrove, pl
 
 ### Start a new project
 
-### Handle a conflict
-
 ### Animate mangrove friends
 
 As a Mangrove member, you'll have to ensure that the MF community is well-animated by posting regularly, giving feedbacks and helping people.
 
 ### Pitch mangrove
+
 
 
 
