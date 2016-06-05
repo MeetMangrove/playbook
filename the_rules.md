@@ -58,6 +58,11 @@ Ex:
       - There are more people sleeping in the house than planned. Some mangrove members decide to sleep on the couch to let guest have beds.
 
 
+### Weekly huddles
+   - mood standups, 5min/pers : Pro, freelance & projects (past & to come), mangrove, perso
+   - necessary debriefings, discussions about important topics, decisions for the future
+  
+
 ### Integrating new members
 
 After sharing a retreat or a project with a Mangrove Friend, we can decide to integrate him/her to our core team.
@@ -113,12 +118,6 @@ Trial steps:
 
 3. Day 90 - Final decision
 > Gather at least 5 MM (appear.in or diner). See how things are going, both ways. At the end of the review decide to end the trial by giving a definitive membership or by going back to MF.
-
-
-### Internal processes
-**Huddles hebdomadaires**
-   - mood standups, 5min/pers : Pro, freelance & projects (past & to come), mangrove, perso
-   - necessary debriefings, discussions about important topics, decisions for the future
 
 
 ### Projets management
