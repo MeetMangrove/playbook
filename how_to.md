@@ -14,6 +14,7 @@ First, you’ll have to talk with the Mangrove members and get their approval ab
 
 Here’s the points you have to check while searching the house:
 - a very good WIFI
+- a calm place
 - a dishwasher
 - some good waves 
 
@@ -51,7 +52,7 @@ As a retreat coach, you’ll ensure that:
 - The participants is feeling amazed during their stay.
 
 
-### Organize a Monthly Meetings
+### Organize a Monthly Meeting
 
 The monthly meetings have been created to gather our freelance & entrepreneurs friends who share our mindset but also those interested in learning more about our community.
 
