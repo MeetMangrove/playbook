@@ -209,7 +209,7 @@ The points give you more weight in the decision making process
 ### Decision Making
 Mangrove is based on freedom, transparency, and a strong sense of collectiveness. Therefore in most of the cases, you can make the decisions you want, as long as they follow Mangrove's purpose, as you consulted the relevant advisors about them, and as your immediately inform the MM via slack.
 
-Nevertheless, some important decisions must be validated by the MM. Modifying the playbook, except for the "how to" section, follow this rule. Making an important investment also does. 
+Nevertheless, some important decisions must be validated by the MM. Modifying the playbook, except for the "how to" section, follow this rule. Making an important investment also does. ......
 
 
 ### Modifying the Playbook
