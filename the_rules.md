@@ -62,6 +62,8 @@ Ex:
 
 After sharing a retreat or a project with a Mangrove Friend, we can decide to integrate him/her to our core team.
 
+**Deciding**
+
 The question is raised by a Mangrove member and all members must approve it.
 
 
@@ -72,14 +74,29 @@ Here are the main points that must be checked before admitting someone:
 1. Is he/she sharing our values? Does he/she believe in the vision we're trying to build?
 2. Has he/she proved his/her will to get involved on a daily basis in the building of Mangrove in the long-term?
 3. Does he/she has an entrepreneurial mindset? 
-
 > Side projects are a good way to evaluate this.
-
 
 4. Does he/she possess amazing skills in his/her field ?
 5. Would it be ok to have that person as a leader of Mangrove project?
 
+        Examples of people we don't want inside Mangrove
+        - joining Mangrove to get more contracts
+        - joining only because it's cool to be part of it
+        - expecting to be told what to do once inside the company
 
+**Integrating**
+
+When the decision is taken, the member who raised the question is responsible for the integration of the new member.
+
+Key steps:
+
+ 1. Call him/her to give the awesome news.
+ 2. Onboard him/her by taking the time to explain how things are going lately, and refer to this playbook.
+ 3. Invite to Slack, Google Drive & Trello.
+ 4. Make a starting point with the most MM possible
+
+
+**Trial period**
 
 
 ### Internal processes
