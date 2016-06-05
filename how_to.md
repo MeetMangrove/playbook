@@ -8,7 +8,7 @@ A retreat is an important part of Mangrove: it’s actually where Mangrove was b
 Learn here how to set up and live a perfect Mangrove retreat:
 
 
-**1 - The spot**
+**The spot**
 
 First, you’ll have to talk with the Mangrove members and get their approval about building a brand new retreat. Once you get the approval of 80% of the team about the dates and the city, you will be in charge to find the perfect house to rent.
 
@@ -19,7 +19,7 @@ Here’s the points you have to check while searching the house:
 
 Once you’ve found 3 perfect matchs, share your find with the Mangrove community to validate the finale house.
 
-**2 - The guests**
+**The guests**
 
 A guest is coming for 1 week and has to be a Mangrove Friends. You’ll have to announce the retreat to all the MF at least 3 months before the start. To do this, create a Google Doc including informations about the spot, the surroundings, the mindset, the rates and a brief explanation about the payment method. 
 
@@ -27,15 +27,15 @@ Each guest stay around 1 week in the house so each week we can host a new batch.
 
 Keep in mind to have well-diversified batchs.
 
-**3 - The booking**
+**The booking**
 
 If you can pay in advance, just warn the community you’re ready to pay the house. If you’re not able to advance the fees, you will talk with the community to find someone who can pay the house. Then, you have to pay back this member by asking the first Mangrove Friends to pay their rent. 
 
-**4 - The planning**
+**The planning**
 
 Create a shared Google sheet to proceed to the batch. You will have to ask to the participants to choose their ideal week. Once someone have chosen his dates, you can directly proceed to the payment and confirm his venue.
 
-**5 - The survival kit**
+**The survival kit**
 
 Each participants will receive from you a survival kit (Google Doc) with useful information:
 - Your phone number
@@ -43,7 +43,7 @@ Each participants will receive from you a survival kit (Google Doc) with useful 
 - Transports from the Airport to the house
 - Map of the house surroundings
 
-**6 - The co-living**
+**The co-living**
 
 As a retreat coach, you’ll ensure that: 
 - The house is ready to host all of the participant each week (house, bed, and towels are clean)
@@ -57,15 +57,15 @@ The monthly meetings have been created to gather our freelance & entrepreneurs f
 
 Learn here how to set up a Mangrove Monthly meeting:
 
-**1 - The spot**
+**The spot**
 
 As a monthly meeting leader, you’re in charge of booking a bar with a capacity of 70+ people. Pick a selection of 3 bars on the date that best suit and let the Mangrove community vote.
 
-**2 - The guest**
+**The guest**
 
 Everybody is welcome to join us to talk about new lifestyles and meet awesome freelancers, entrepreneurs and people who want to work differently. 
 
-**3 - The announcement**
+**The announcement**
 
 - Facebook : create a Facebook event to measure the number of attendees.
 - Facebook : 2 posts on the Mangrove Facebook page to let our fans know about the event.
@@ -73,7 +73,7 @@ Everybody is welcome to join us to talk about new lifestyles and meet awesome fr
 - Newsletter : 1 newsletter to the Mangrove mailing list the week before the event to let the suscribers know about the event.
 Mangrove Friends : a message in the Mangrove Friends Slack to help us to create a huge word of mouth.
 
-**4 - The D-Day**
+**The D-Day**
 
 Be sure to be the first at the bar to welcome the guest. Make yourself available and don’t hesitate to discuss with the first-time people. 
 
@@ -101,14 +101,15 @@ Please contact the admin by using the channel #website.
 
 ### Buy something for mangrove
 
-
-### Onboard a mangrove friend
 When it has been decided that something has to be bought by you for Mangrove, please consider the following steps: 
 
 1. Choose the best item regarding the needs
 2. Validate it with your team on the associated project
 3. If you have enough money to buy it, go for it. If not, divide the total amount with other teammates. Announce the expense in the #finance channel so that the treasurer can take it into account. 
 4. Every month (?), finances are publicly communicated by the treasurer in order to balance the member contributions, so you can see who owes you money. However, you are responsible to ask for your refunds, and if needed, go through a conflict resolution process [see link]
+
+
+### Onboard a mangrove friend
 
 ### Start a new project
 
