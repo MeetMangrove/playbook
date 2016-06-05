@@ -116,7 +116,7 @@ When it has been decided that something has to be bought by you for Mangrove, pl
 
 ### Animate mangrove friends
 
-The Mangrove Friends are one of the most important part of Mangrove. 
+As a Mangrove member, you'll have to ensure that the MF community is well-animated by posting regularly, giving feedbacks and helping the community.
 
 ### Pitch mangrove
 
