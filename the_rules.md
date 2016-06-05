@@ -198,6 +198,20 @@ Conflicts happen. It's ok.
 - Talk about it asap on #general. Transparency is one of the key values of Mangrove. No one should be affraid to express misunderstandings or divergent opinions.
 
 
+### Mangrove Ownership Points
+Contributing to Mangrove gives the right to accumulate Mangrove Ownership Points (MOP). This points are not legal ownership rights like are shareholder's actions, but gives you weight in Mangrove's inner workings. 
+At the beginning of each month, you write a text about your contribution to the ecosystem during the month before, and attribute yourself points for that. These points are publicly shared on slack and an harmonization discussion happens there involving all the MM. If needed or if the subject is complex, an appear.in will be scheduled for this purpose.
+> when the number of MM will exceed 10, this process will no more involve all the community at one time
+At the end, you are free to attribute yourself the number of points you want ; but it is highly recommanded that you follow what the community suggested on this matter if it had remarks on your amount.
+The points give you more weight in the decision making process
+
+
+### Decision Making
+Mangrove is based on freedom, transparency, and a strong sense of collectiveness. Therefore in most of the cases, you can make the decisions you want, as long as they follow Mangrove's purpose, as you consulted the relevant advisors about them, and as your immediately inform the MM via slack.
+
+Nevertheless, some important decisions must be validated by the MM. Modifying the playbook, except for the "how to" section, follow this rule. Making an important investment also does. ......
+
+
 ### Modifying the Playbook
 
 Any MM can modify the "how to" part of the playbook. He/she must talk about the changes in #playbook.
