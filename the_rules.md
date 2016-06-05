@@ -5,11 +5,21 @@
 
 Like every company, we have a daily routine. The only difference is that it’s not about drinking coffee or bitching about our boss. It’s lighter but present, everyday.
 
+
+---
+
+
+
 ****1 - Pairing****
 
 Every week, the Pairing Dancers give you a new buddy. Call him/her 10 minutes everyday from monday to friday. You can talk about your day, both pro and personal, if you feel comfortable with it. Listening is as important as talking.
 
 > Tips: Make sure to get in touch on monday to set the ideal time for a call during the week.
+
+
+
+---
+
 
 
 
