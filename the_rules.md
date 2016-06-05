@@ -186,7 +186,7 @@ A treasurer has to be elected every 3 months and is hold responsible of the fina
 
 **1 - The office**
 
-Mangrove members are free to work from where ever they want. Meanwhile, we have an office in Paris at the Liberté Living Lab. If you want to take a seat at this office, you’ll have to get involved in life of the Lab by introducing Mangrove regularly to different companies or by working several hours for the Lab on a monthly basis. 
+Mangrove members are free to work from wherever they want. However, we have an office in Paris at the Liberté Living Lab. If you want to take a seat at this office, you’ll have to get involved in life of the Lab by introducing Mangrove regularly to different companies or by working several hours for the Lab on a monthly basis. 
 
 **2 - The hubs**
 
