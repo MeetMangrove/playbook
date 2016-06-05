@@ -12,6 +12,7 @@ Every week, the Pairing Dancers give you a new buddy. Call him/her 10 minutes ev
 > Tips: Make sure to get in touch on monday to set the ideal time for a call during the week.
 
 
+
 **2 - #missions**
 
 If you bill a new mission to a client, write a brief summary on #missions. It helps you take a step back on how you’re doing as a freelancer, and can create synergies between members for future collaborations.
@@ -25,6 +26,8 @@ Ex:
       - 3 Facebook posts per week
       - 3 tweets per week (and some RT and Like for the other days)
       - 1 daily check for the comments and questions (PM)
+
+
 
 **3 - #debrief**
 
