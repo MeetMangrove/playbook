@@ -134,7 +134,9 @@ Two ways of participating :
 
 
 ### Mangrove Friends
-Mangrove Friends are people revolving around Mangrove. They share the mindset, the vision and are interested in being part of the ecosystem. Some of the benefits of being a mangrove friend includes:
+Mangrove Friends are people revolving around Mangrove. They share the mindset, the vision and are interested in being part of the ecosystem. 
+
+Some of the benefits of being a mangrove friend includes:
 
 - Being invited to the Mangrove retreats
 - Being part of the Slack “Mangrove Friends” which contains several helpful services
@@ -161,4 +163,4 @@ All profits generated within Mangrove should be reinvested in other Mangrove pro
 
 The investments in the different Mangrove projects have to be determined between the different project leaders and go through the conflict resolution system if needed [see link]. 
 
-A treasurer has to be elected every 3 months and is hold responsible of the financial flows. He has to regularly check the #finance channel in order to register the cashflows on his favorite accounting system and publicly communicate the balances every 2 weeks, the debts of Mangrove towards its member, and the repartition of the refunds.
+A treasurer has to be elected every 3 months and is hold responsible of the financial flows. He has to regularly check the #finance channel in order to register the cashflows on his favorite accounting system and publicly communicate the balances every 2 weeks, the debts of Mangrove towards its members, and the distribution of the refunds.
