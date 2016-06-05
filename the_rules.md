@@ -182,3 +182,12 @@ The investments in the different Mangrove projects have to be determined between
 A treasurer has to be elected every 3 months and is hold responsible of the financial flows. He has to regularly check the #finance channel in order to register the cashflows on his favorite accounting system and publicly communicate the balances every 2 weeks, the debts of Mangrove towards its members, and the distribution of the refunds.
 
 
+### Office and hubs
+
+**1 - The office**
+
+Mangrove members are free to work from where ever they want. Meanwhile, we have an office in Paris at the Liberté Living Lab. If you want to take a seat at this office, you’ll have to get involved in life of the Lab by introducing Mangrove regularly to different companies or by working several hours for the Lab on a monthly basis. 
+
+**2 - The hubs**
+
+As a MM, you’re welcome to create hubs all around the world. Mangrove hubs are gathering members in a common city. For example, if 4 members are located in Austin, TX, they can create a Mangrove hub there by fining offices and by working together. 
