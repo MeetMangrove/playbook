@@ -1,18 +1,18 @@
 # The rules
 
 
-## Daily Routine
+### Daily Routine
 
 Like every company, we have a daily routine. The only difference is that it’s not about drinking coffee or bitching about our boss. It’s lighter but present, everyday.
 
-### Pairing
+****1 - Pairing****
 
 Every week, the Pairing Dancers give you a new buddy. Call him/her 10 minutes everyday from monday to friday. You can talk about your day, both pro and personal, if you feel comfortable with it. Listening is as important as talking.
 
 > Tips: Make sure to get in touch on monday to set the ideal time for a call during the week.
 
 
-### #missions
+**2 - #missions**
 
 If you bill a new mission to a client, write a brief summary on #missions. It helps you take a step back on how you’re doing as a freelancer, and can create synergies between members for future collaborations.
 
@@ -25,7 +25,7 @@ Ex:
 - 3 tweets per week (and some RT and Like for the other days)
 - 1 daily check for the comments and questions (PM)```
 
-### #debrief
+**3 - #debrief**
 
 When you meet someone interesting, write a short debrief. It helps you keep track of the people you meet, and creates connexions between Mangrove members.
 
@@ -44,8 +44,8 @@ Ex:
     => Will need help on UX and code soon. Maybe a mission for some of us.
 
 
-### When on a Mangrove retreat, education or event
-
+** 4 - When on a Mangrove retreat, education or event
+**
 Mangrove members are responsible for what’s happening and take responsibilities.
 
 Ex:
