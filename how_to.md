@@ -14,7 +14,7 @@ First, you’ll have to talk with the Mangrove members and get their approval ab
 
 Here’s the points you have to check while searching the house:
 - a very good WIFI
-- a calm place
+- a quiet place
 - a dishwasher
 - some good waves 
 
