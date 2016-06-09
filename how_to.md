@@ -100,8 +100,6 @@ If you still want to make it and some people are against, ask for a vote (each v
 ### Deal with our mailing list
 
 
-### Impact existing assets
-
 ### Onboard a new member
 Every new member gets to choose 2 mentors who are gonna have a weekly call with her. They are supposed to provide the help needed on a personal level (Mangrove integration, mood) & on a professional level (projects & revenue).
 After 3 months, the new member picks publicly 10 people that are supposed to decide if she should become a confirmed Mangrove member. These 10 people vote anonymously (yes, no, IDK). If there is less than 7 yes, this member becomes a Mangrove friend.
