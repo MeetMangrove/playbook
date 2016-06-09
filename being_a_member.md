@@ -11,13 +11,7 @@ And work together as one towards it. (the mission is your boss)
 
 ### Sharing its ideal
 
-Mangrove's ideal of professional fulfillment consists of benevolence, confidence, sense of collectiveness, freedom, will to grow (including : humility), diverse individualities. And :
-    Openness / Curiosity
-    Thoughtful / Insightful / Ability to identify the social norm
-    Franchise / Clarity / Relational maturity
-    Positive mindset & Energy
-    Entrepreneurial / Ambitious
-    Good at listening to people
+
 
 
 ### Sharing its convictions 
