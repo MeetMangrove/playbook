@@ -8,6 +8,14 @@ Mangrove friends are people revolving around Mangrove. They share the mindset, t
 
 ### Mangrove's ideal
 
+Mangrove's ideal of professional fulfillment consists of benevolence, confidence, sense of collectiveness, freedom, will to grow (including : humility), diverse individualities. And :
+    Openness / Curiosity
+    Thoughtful / Insightful / Ability to identify the social norm
+    Franchise / Clarity / Relational maturity
+    Positive mindset & Energy
+    Entrepreneurial / Ambitious
+    Good at listening to people
+    
 ### Mangrove's convictions
 
 ### A listening organisation
