@@ -15,11 +15,6 @@ And work together as one towards it. (the mission is your boss)
 
 
 ### Sharing its convictions 
-We belive in :
-- transparency
-- technology as organizational lever
-- flat / non-hiererchical organisations
-- open source and public sharing
 
 
 ### Adhering to its rules and habits, and helping improving them
