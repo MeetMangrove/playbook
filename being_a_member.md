@@ -1,8 +1,6 @@
 # Being a member
 
-Being a member of Mangrove means
-
-
+Being a member of Mangrove means :
 
 ### Always keeping in mind its purpose 
 
