@@ -134,7 +134,8 @@ Ex: Hey all, I’m glad to introduce you to [name]. I met her/him [somewhere]. (
 
 ### Start a new project
 When you want to start a new project, you need to:
-- ask for advice from the people who are the most skilled to help you
+- ask for advice from the people who will get impacted by your project.
+- ask for advice from the people who are the most skilled to help you.
 - share publicly about the project you are starting if people want to participate.
 
 ### Animate mangrove friends
