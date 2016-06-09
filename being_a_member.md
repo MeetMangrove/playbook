@@ -13,9 +13,8 @@ Members sharing a common strong culture is at the very root of Mangrove's existe
 
 
 ### Adhering to its rules and habits, and helping improving them
-- can, and should, be critical about some of them, but should globally adhere
-- pairing
-- 'empty seat technique', representing the purpose during decision making meetings
+A member can, and should, be critical about some of Mangrove's habits, but should globally adhere to them. The pairing and using the moodbot are exemples of Mangrove's habits.
+
 
 ### Experimenting together
 Experimenting together new modes of organization and governance
