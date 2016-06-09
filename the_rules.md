@@ -106,7 +106,7 @@ When the decision is taken, the member who raised the question is responsible fo
 
 Key steps:
 
- 1. Call him/her to give the awesome news.
+ 1. Call or meet him/her to give the awesome news.
  2. Onboard him/her by taking the time to explain how things are going lately, and refer to this playbook.
  3. Invite to Slack, Google Drive & Trello.
  4. Make a starting point with the most MM possible
@@ -115,20 +115,23 @@ Key steps:
  6. Update meetmangrove.com/us with a PR (or ask someone who knows how to do it).
  6. Slack bots Rachid and Pairing Dancers will be updated automatically.
  7. Yeah you're done!
- 8. ...but you're in charge of the trial period as well
 
 **Trial period**
 
 When someone joins Mangrove, he starts a trial period of 3 months. The goal is to see if the fit is real, so it work both ways (the new member might not feel good inside such an organisation for ex).
 
+Every new member gets to choose 2 mentors. They are providing the help needed on a personal level (Mangrove integration, mood) & on a professional level (projects & revenue).
+
 Trial steps:
 
 1. Day 0 - Starting Point
 2. Day 30 - First month review
-> Gather at least 5 MM (appear.in or diner). See how things are going, both ways. At the end of the review decide to continue or to stop (go back to MF).
+> Gather at least 5 MM including the 2 mentors (appear.in or diner). See how things are going, both ways. At the end of the review decide together to continue or to stop (go back to MF).
 
-3. Day 90 - Final decision
-> Gather at least 5 MM (appear.in or diner). See how things are going, both ways. At the end of the review decide to end the trial by giving a definitive membership or by going back to MF.
+3. Day 90 - End of trial
+> Gather at least 5 MM including the 2 mentors (appear.in or diner). See how things are going, both ways. 
+3. Final decision
+ > The new member chooses publicly 10 members of Mangrove. These members vote anonymously (under the supervision of the 2 mentors) to decide if the new member stays inside Mangrove or goes back to MF. Votes are +1/0/-1. If the new member gets 7 or more +1 and no -1, trial ends and he stays inside Mangrove.
 
 
 ### Responsibility
@@ -201,17 +204,24 @@ As an MM, you’re welcome to create hubs all around the world. Mangrove hubs ar
 
 Conflicts happen. It's ok.
 
-**The conflict is about a project inside Mangrove.
-**
-
-- Refer to the lead of the project who will act as a coach and resolve the conflict.
-- If the problem is a lack of leadership or at least you feel it wrong, begin to talk directly with the lead on the project about it. The sooner the better.
-- If it doesn't work, talk about it on #general. Don't forget to stay benevolent. Everybody is on the same mission here, and shit happens. Talk about the project, not the people. Smile :)
-
-**The conflict is about Mangrove itself.
+**The conflict is about Mangrove's mission
 **
 - Refer to "What is Mangrove" and "The Rules" to see if you can resolve it in an easy way by following a written rule.
 - Talk about it asap on #general. Transparency is one of the key values of Mangrove. No one should be affraid to express misunderstandings or divergent opinions.
+
+**The conflict is about anything else (projects, implication...)
+**
+
+**Step 1**
+- If inside a project, refer to the person in charge and talk about the problem directly on 1 to 1.
+- If the problem is a lack of leadership or a wrong one, talk directly with the lead of the project about it. The sooner the better.
+- For any other conflict, talk to the person that causes the conflict. Be benevolent, try to understand why this person is acting like this.
+
+**Step 2**
+- If it doesn't work, choose a third person as a facilitator. This person will be responsible of sorting things out.
+
+**Step 3**
+- If it doesn't work, talk about it publicly (either on #general or during a call/meeting). Don't forget to stay benevolent. Everybody is on the same mission here, and shit happens. Talk about the project, not the people. Smile :)
 
 
 ### Mangrove Ownership Points
