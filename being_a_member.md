@@ -13,6 +13,7 @@ Members sharing a common strong culture is at the very root of Mangrove's existe
 
 
 ### Adhering to its rules and habits, and helping improving them
+- can, and should, be critical about some of them, but should globally adhere
 - pairing
 - 'empty seat technique', representing the purpose during decision making meetings
 
