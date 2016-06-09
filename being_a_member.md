@@ -13,24 +13,23 @@ Members sharing a common strong culture is at the very root of Mangrove's existe
 
 
 ### Adhering to its rules and habits, and helping improving them
-- can, and should, be critical about some of them, but should globally adhere
-- pairing
-- 'empty seat technique', representing the purpose during decision making meetings
+A member can, and should, be critical about some of Mangrove's habits, but should globally adhere to them. The pairing and using the moodbot are exemples of Mangrove's habits.
+
 
 ### Experimenting together
-Experimenting together new modes of organization and governance
-- governance in Mangrove is decentralized. Currently, we do X Y Z (eg : freedom of taking initiatives ; immediate transparency about most actions)
-- how projects work : project leaders gathering 'project circles'. Possibility of having coaches
+Mangrove is experimenting new modes of organization and governance. Its members should keep this in mind and keep an experimental mindset, learning from errors to refine the model.
 
 
 ### Being implied in the life and the construction of the ecosystem
+Implication from every Mangrove member is important. It means :
 - taking part in the collective effort, going from the essential small tasks to the recurring missions necessary to Mangrove's life and to the big realizations allowing its expansion
 - integrating to the community and to its everyday life
 - putting one's skills and resources to the service of the community
 - being proactive, undertaking initiatives and being a driving force of projects aligned with Mangrove's shared vision
 
 ### Representing the ecosystem
-- embody its values and and its ideal, during highlight moments as well as in everday life
+Each member should embody Mangrove's values  and its ideal, during highlight moments as well as in everyday life.
+
 
 
 
