@@ -209,7 +209,7 @@ Conflicts happen. It's ok.
 
 **Step 1**
 - If inside a project, refer to the person in charge and talk about the problem directly on 1 to 1.
-- If the problem is a lack of leadership or at least you feel it wrong, begin to talk directly with the lead on the project about it. The sooner the better.
+- If the problem is a lack of leadership or a wrong one, begin to talk directly with the lead on the project about it. The sooner the better.
 - For any other conflict, talk to the person that causes the conflict. Be benevolent, try to understand why this person is acting like this.
 
 **Step 2**
