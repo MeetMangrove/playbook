@@ -18,6 +18,12 @@ Mangrove's ideal of professional fulfillment consists of benevolence, confidence
     
 ### Mangrove's convictions
 
+We belive in :
+- transparency
+- technology as organizational lever
+- flat / non-hiererchical organisations
+- open source and public sharing
+
 ### A listening organisation
 
 Mangrove knows how to listen to the outside.
