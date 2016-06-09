@@ -62,7 +62,7 @@ Learn here how to set up a Mangrove Monthly meeting:
 
 As a monthly meeting leader, you’re in charge of booking a bar with a capacity of 70+ people (depending on the community size in your hub). Pick a selection of 3 bars on the date that best suit and let the Mangrove community vote.
 
-**The guest**
+**The guests**
 
 Everybody is welcome to join us to talk about new lifestyles and meet awesome freelancers, entrepreneurs and people who want to work differently. 
 
@@ -83,7 +83,7 @@ Be sure to be the first at the bar to welcome the guest. Make yourself available
 
 Each member may create content for the Mangrove social media accounts. All posts must serve the interest of the Mangrove community. In other words, there should be no personal projects unless it's in the Mangrove spirit.
 
-Each 6 months, a community leader is appoint by the Mangrove members. His role is too handle a fluid publication calendar. 
+Each 6 months, a community leader is appointed by the Mangrove members. His role is to handle a fluid publication calendar. 
 
 As a Mangrove member, if you want to publish a content, you must refer to the community lead - he is the only one who can decide the publication timing, and give you the final approval. Once you know the publication timing, you can publish the content by yourself.
 
@@ -100,13 +100,6 @@ Existing assets include: website, bots, branding.
 Ask the advice of the person leading the asset and other members who are expert on the topic about the change you’d like to make.
 If you still want to make it and some people are against, ask for a vote (each voter being pondered by each member’s public influence based on contribution) and if you get less than 30% of voters against the change (yes, no, IDK), you can make it.
 
-
-### Deal with our mailing list
-
-
-### Onboard a new member
-Every new member gets to choose 2 mentors who are gonna have a weekly call with her. They are supposed to provide the help needed on a personal level (Mangrove integration, mood) & on a professional level (projects & revenue).
-After 3 months, the new member picks publicly 10 people that are supposed to decide if she should become a confirmed Mangrove member. These 10 people vote anonymously (yes, no, IDK). If there is less than 7 yes, this member becomes a Mangrove friend.
 
 ### Buy something for mangrove
 
