@@ -1,34 +1,19 @@
 # Being a member
 
-Being a member of Mangrove means
-
-
+Being a member of Mangrove means :
 
 ### Always keeping in mind its purpose 
 
-And work together as one towards it. (the mission is your boss)
+Always keeping in mind the purpose of the organization is the core engine of Teal Organizations. The only final boss of Mangrove's members is Mangrove's purpose, and only important decision should be made under the light of this purpose. Member's work should converge towards it.
 
 
-### Sharing its ideal
+### Sharing its ideal and its convictions
 
-Mangrove's ideal of professional fulfillment consists of benevolence, confidence, sense of collectiveness, freedom, will to grow (including : humility), diverse individualities. And :
-    Openness / Curiosity
-    Thoughtful / Insightful / Ability to identify the social norm
-    Franchise / Clarity / Relational maturity
-    Positive mindset & Energy
-    Entrepreneurial / Ambitious
-    Good at listening to people
-
-
-### Sharing its convictions 
-We belive in :
-- transparency
-- technology as organizational lever
-- flat / non-hiererchical organisations
-- open source and public sharing
+Members sharing a common strong culture is at the very root of Mangrove's existence. Before everything else, a member shares with Mangrove an ideal of what is a fulfiling professional life, and Mangrove's convictions on how to achieve it.
 
 
 ### Adhering to its rules and habits, and helping improving them
+- can, and should, be critical about some of them, but should globally adhere
 - pairing
 - 'empty seat technique', representing the purpose during decision making meetings
 
