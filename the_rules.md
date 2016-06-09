@@ -104,7 +104,7 @@ When the decision is taken, the member who raised the question is responsible fo
 
 Key steps:
 
- 1. Call him/her to give the awesome news.
+ 1. Call or meet him/her to give the awesome news.
  2. Onboard him/her by taking the time to explain how things are going lately, and refer to this playbook.
  3. Invite to Slack, Google Drive & Trello.
  4. Make a starting point with the most MM possible
@@ -113,20 +113,23 @@ Key steps:
  6. Update meetmangrove.com/us with a PR (or ask someone who knows how to do it).
  6. Slack bots Rachid and Pairing Dancers will be updated automatically.
  7. Yeah you're done!
- 8. ...but you're in charge of the trial period as well
 
 **Trial period**
 
 When someone joins Mangrove, he starts a trial period of 3 months. The goal is to see if the fit is real, so it work both ways (the new member might not feel good inside such an organisation for ex).
 
+Every new member gets to choose 2 mentors. They are providing the help needed on a personal level (Mangrove integration, mood) & on a professional level (projects & revenue).
+
 Trial steps:
 
 1. Day 0 - Starting Point
 2. Day 30 - First month review
-> Gather at least 5 MM (appear.in or diner). See how things are going, both ways. At the end of the review decide to continue or to stop (go back to MF).
+> Gather at least 5 MM including the 2 mentors (appear.in or diner). See how things are going, both ways. At the end of the review decide together to continue or to stop (go back to MF).
 
-3. Day 90 - Final decision
-> Gather at least 5 MM (appear.in or diner). See how things are going, both ways. At the end of the review decide to end the trial by giving a definitive membership or by going back to MF.
+3. Day 90 - End of trial
+> Gather at least 5 MM including the 2 mentors (appear.in or diner). See how things are going, both ways. 
+3. Final decision
+ > The new member chooses publicly 10 members of Mangrove. These members vote anonymously (under the supervision of the 2 mentors) to decide if the new member stays inside Mangrove or goes back to MF. Votes are +1/0/-1. If the new member gets 7 or more +1 and no -1, trial ends and he stays inside Mangrove.
 
 
 ### Responsibility
