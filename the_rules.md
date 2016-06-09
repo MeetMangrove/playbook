@@ -199,17 +199,24 @@ As an MM, you’re welcome to create hubs all around the world. Mangrove hubs ar
 
 Conflicts happen. It's ok.
 
-**The conflict is about a project inside Mangrove.
-**
-
-- Refer to the lead of the project who will act as a coach and resolve the conflict.
-- If the problem is a lack of leadership or at least you feel it wrong, begin to talk directly with the lead on the project about it. The sooner the better.
-- If it doesn't work, talk about it on #general. Don't forget to stay benevolent. Everybody is on the same mission here, and shit happens. Talk about the project, not the people. Smile :)
-
-**The conflict is about Mangrove itself.
+**The conflict is about Mangrove's mission
 **
 - Refer to "What is Mangrove" and "The Rules" to see if you can resolve it in an easy way by following a written rule.
 - Talk about it asap on #general. Transparency is one of the key values of Mangrove. No one should be affraid to express misunderstandings or divergent opinions.
+
+**The conflict is about anything else (projects, implication...)
+**
+
+**Step 1**
+- If inside a project, refer to the person in charge and talk about the problem directly on 1 to 1.
+- If the problem is a lack of leadership or at least you feel it wrong, begin to talk directly with the lead on the project about it. The sooner the better.
+- For any other conflict, talk to the person that causes the conflict. Be benevolent, try to understand why this person is acting like this.
+
+**Step 2**
+- If it doesn't work, choose a third person as a facilitator. This person will be responsible of sorting things out.
+
+**Step 3**
+- If it doesn't work, talk about it publicly (either #general or during a call/meeting). Don't forget to stay benevolent. Everybody is on the same mission here, and shit happens. Talk about the project, not the people. Smile :)
 
 
 ### Mangrove Ownership Points
