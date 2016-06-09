@@ -64,7 +64,7 @@ The goal of these meetings is to share with everyone your mood, what you have do
 Every Mangrove member is expected to attend more than 3/4 of weekly meetings and shouldn't miss 2 meetings in a row (except if on vacation).
 If she cannot attend, she needs to share publicly the information before the meeting.
   
-### Vacations
+### Time Off
 Up to 5 weeks without being implied in Mangrove.
 More than 5 weeks = becoming a Mangrove friend temporarily and not being responsible for Mangrove projects anymore.
 
