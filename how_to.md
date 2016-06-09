@@ -49,7 +49,7 @@ Each participants will receive from you a survival kit (Google Doc) with useful 
 As a retreat coach, you’ll ensure that: 
 - The house is ready to host all of the participant each week (house, bed, and towels are clean)
 - To invite the closest tech community to join us for a BBQ 🌭
-- The participants is feeling amazed during their stay.
+- The participants are feeling amazed during their stay.
 
 
 ### Organize a Monthly Meeting
