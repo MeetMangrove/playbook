@@ -216,7 +216,7 @@ Conflicts happen. It's ok.
 - If it doesn't work, choose a third person as a facilitator. This person will be responsible of sorting things out.
 
 **Step 3**
-- If it doesn't work, talk about it publicly (either #general or during a call/meeting). Don't forget to stay benevolent. Everybody is on the same mission here, and shit happens. Talk about the project, not the people. Smile :)
+- If it doesn't work, talk about it publicly (either on #general or during a call/meeting). Don't forget to stay benevolent. Everybody is on the same mission here, and shit happens. Talk about the project, not the people. Smile :)
 
 
 ### Mangrove Ownership Points
