@@ -173,12 +173,13 @@ Some of the benefits of being a mangrove friend include:
 
 While all assets belong to Mangrove, a person is appointed as responsible for a period of time to be determined, depending on the context. Being responsible of an asset means that we have to take care of it [link to sheperding], in exchange of its use. 
 
-When a member leaves Mangrove, he takes no assets back. He has to delegate the responsibilities he has over the physical assets to other members. A council with the other people affected by this transmission [see decision making]. 
+When a member leaves Mangrove, he takes no assets back. He has to delegate the responsibilities he has over the physical assets to other members. 
 
 A member cannot use Mangrove physical assets for personal use, as it doesn’t help the purpose of Mangrove. However, he can ask to affected members to buy or lease it with associated guarantees.
 
-[Detail examples of assets here]
+Previous cases:
 
+> A drone is bought by Mangrove for filming the retreats. There is one person named responsible to take care of it unanimousely. He is in charge of carrying it, filming scenes and making sure people don't break it.
 
 ### Compensation & Profits
 All profits generated within Mangrove should be reinvested in other Mangrove projects. (ça suppose quand même que mangrove possède un statut juridique et peut recevoir de l’argent)
@@ -206,7 +207,7 @@ Conflicts happen. It's ok.
 
 **The conflict is about Mangrove's mission
 **
-- Refer to "What is Mangrove" and "The Rules" to see if you can resolve it in an easy way by following a written rule.
+- Refer to "Whaet is Mangrove" and "The Rules" to see if you can resolve it in an easy way by following a written rule.
 - Talk about it asap on #general. Transparency is one of the key values of Mangrove. No one should be affraid to express misunderstandings or divergent opinions.
 
 **The conflict is about anything else (projects, implication...)
