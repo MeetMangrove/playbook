@@ -6,4 +6,5 @@
 * [The rules](the_rules.md)
 * [How to](how_to.md)
    * [Organize a retreat](organize_a_retreat.md)
+   * Organize a Monthly Meeting
 
