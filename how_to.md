@@ -1,6 +1,13 @@
 # How To
 
 
+### Start a new project
+When you want to start a new project, you need to:
+- ask for advice from the people who will get impacted by your project.
+- ask for advice from the people who are the most skilled to help you.
+- share publicly about the project you are starting if people want to participate.
+
+
 ### Impact existing assets
 Existing assets include: website, bots, branding.
 Ask the advice of the person leading the asset and other members who are expert on the topic about the change you’d like to make.
@@ -15,13 +22,6 @@ When it has been decided that something has to be bought by you for Mangrove, pl
 2. Validate it with your team on the associated project
 3. If you have enough money to buy it, go for it. If not, divide the total amount with other teammates. Announce the expense in the #finance channel so that the treasurer can take it into account. 
 4. Every month (?), finances are publicly communicated by the treasurer in order to balance the member contributions, so you can see who owes you money. However, you are responsible to ask for your refunds, and if needed, go through a conflict resolution process [see link]
-
-
-### Start a new project
-When you want to start a new project, you need to:
-- ask for advice from the people who will get impacted by your project.
-- ask for advice from the people who are the most skilled to help you.
-- share publicly about the project you are starting if people want to participate.
 
 
 
