@@ -1,6 +1,6 @@
 # Retreats
 
-### Organize a retreat
+### Organizing a retreat
 
 
 A retreat is an important part of Mangrove: it’s actually where Mangrove was born in January 2016 in Essaouira, Morocco. It’s a time to step back from your daily life and get out of your comfort zone to experiment a 3-weeks co-living with the Mangrove Friends community.
