@@ -83,11 +83,11 @@ Be sure to be the first at the bar to welcome the guest. Make yourself available
 
 Each member may create content for the Mangrove social media accounts. All posts must serve the interest of the Mangrove community. In other words, there should be no personal projects unless it's in the Mangrove spirit.
 
-Each 6 months, a community leader is appointed by the Mangrove members. His role is to handle a fluid publication calendar. 
+Each 3 months, two community leader are appointed by the Mangrove members. Their roles are to handle a fluid publication calendar. 
 
 As a Mangrove member, if you want to publish a content, you must refer to the community lead - he is the only one who can decide the publication timing, and give you the final approval. Once you know the publication timing, you can publish the content by yourself.
 
-If you need the password, contact the community lead by private message on Slack.
+If you need the password, contact one of the community lead by private message on Slack.
 
 Using emoji is highly recommended 💙
 
