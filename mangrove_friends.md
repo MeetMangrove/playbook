@@ -1,7 +1,7 @@
 # Mangrove Friends
 
 
-### Onboard a mangrove friend
+### Onboarding a mangrove friend
 After 2 Mangrove members agreed on inviting a new person to the community because she shares our values and works in the tech industry, one of them needs to explain her what is the MF community and ask her if she wants to join. If she agrees, she has to fill this form: [http://bit.ly/newmf_](http://bit.ly/newmf_)
 
 Then, the 1st member who suggested her as an MF will add her on the MF Slack and write an introduction in #general as soon as she joins.
@@ -13,7 +13,7 @@ Then, this same member will send the new MF a private message to:
 - share with her the Slack channels that could be interesting to her (for instance: #dev, #ux, etc.)
 
 
-### Animate mangrove friends
+### Animating mangrove friends
 
 As a Mangrove member, you'll have to ensure that the MF community is well-animated by posting regularly, giving feedbacks and helping people.
 
