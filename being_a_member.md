@@ -4,12 +4,12 @@ Being a member of Mangrove means :
 
 ### Always keeping in mind its purpose 
 
-Always keeping in mind the purpose of the organization is the core engine of Teal Organizations. The only final boss of Mangrove's members is Mangrove's purpose, and only important decision should be made under the light of this purpose. Member's work should converge towards it.
+Always keeping in mind the purpose of the organization is the core engine of Teal Organizations. The only final boss of Mangrove's members is Mangrove's purpose, and only important decision should be made under the light of this purpose. Members' work should converge towards it.
 
 
 ### Sharing its ideal and its convictions
 
-Members sharing a common strong culture is at the very root of Mangrove's existence. Before everything else, a member shares with Mangrove an ideal of what is a fulfiling professional life, and Mangrove's convictions on how to achieve it.
+Members sharing a common strong culture is at the very root of Mangrove's existence. Before everything else, a member shares with Mangrove an ideal of what is a fulfilling professional life, and Mangrove's convictions on how to achieve it.
 
 
 ### Adhering to its rules and habits, and helping improving them

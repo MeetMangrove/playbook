@@ -49,7 +49,7 @@ Each participants will receive from you a survival kit (Google Doc) with useful 
 As a retreat coach, you’ll ensure that: 
 - The house is ready to host all of the participant each week (house, bed, and towels are clean)
 - To invite the closest tech community to join us for a BBQ 🌭
-- The participants is feeling amazed during their stay.
+- The participants are feeling amazed during their stay.
 
 
 ### Organize a Monthly Meeting
@@ -62,7 +62,7 @@ Learn here how to set up a Mangrove Monthly meeting:
 
 As a monthly meeting leader, you’re in charge of booking a bar with a capacity of 70+ people (depending on the community size in your hub). Pick a selection of 3 bars on the date that best suit and let the Mangrove community vote.
 
-**The guest**
+**The guests**
 
 Everybody is welcome to join us to talk about new lifestyles and meet awesome freelancers, entrepreneurs and people who want to work differently. 
 
@@ -83,30 +83,23 @@ Be sure to be the first at the bar to welcome the guest. Make yourself available
 
 Each member may create content for the Mangrove social media accounts. All posts must serve the interest of the Mangrove community. In other words, there should be no personal projects unless it's in the Mangrove spirit.
 
-Each 6 months, a community leader is appoint by the Mangrove members. His role is too handle a fluid publication calendar. 
+Each 3 months, two community leaders are appointed by the Mangrove members. Their roles are to manage a fluid publication calendar. To do this, they have access to a Google Spreadsheet where are centralized their publications.
+
+Community leaders are also responsible for keeping a consistent editorial line. They must be proactive and create most of the content while carrying out their duties.
 
 As a Mangrove member, if you want to publish a content, you must refer to the community lead - he is the only one who can decide the publication timing, and give you the final approval. Once you know the publication timing, you can publish the content by yourself.
 
-If you need the password, contact the community lead by private message on Slack.
+If you need the password, contact one of the community lead by private message on Slack.
 
 Using emoji is highly recommended 💙
 
-### Send emails with Mangrove
-
-As a Mangrove member, you'll need to promote some of our events and contents. Feel free to use our mailing list by using Mailchimp. Follow the previous templates. If you need the password, contact the community lead by private message on Slack.
+Besides, feel free to use our mailing list by using Mailchimp. Follow the previous templates. If you need the password, here again, contact the community lead by private message on Slack.
 
 ### Impact existing assets
 Existing assets include: website, bots, branding.
 Ask the advice of the person leading the asset and other members who are expert on the topic about the change you’d like to make.
 If you still want to make it and some people are against, ask for a vote (each voter being pondered by each member’s public influence based on contribution) and if you get less than 30% of voters against the change (yes, no, IDK), you can make it.
 
-
-### Deal with our mailing list
-
-
-### Onboard a new member
-Every new member gets to choose 2 mentors who are gonna have a weekly call with her. They are supposed to provide the help needed on a personal level (Mangrove integration, mood) & on a professional level (projects & revenue).
-After 3 months, the new member picks publicly 10 people that are supposed to decide if she should become a confirmed Mangrove member. These 10 people vote anonymously (yes, no, IDK). If there is less than 7 yes, this member becomes a Mangrove friend.
 
 ### Buy something for mangrove
 
@@ -119,22 +112,21 @@ When it has been decided that something has to be bought by you for Mangrove, pl
 
 
 ### Onboard a mangrove friend
-Ask some information (Typeform):
-    - Full Name
-    - Email
-    - Twitter handle (if no: LinkedIn)
-    - Postal address
-    - Personal picture
-    - Top 3 skills
-    - Status: Founder, freelancer or employee
-    - If founder or employee: name & URL of company
-    - Background in 200 characters
-The 1st member who suggested her as an MF will introduce her as soon as she joins the slack dedicated to the MF community.
+After 2 Mangrove members agreed on inviting a new person to the community because she shares our values and works in the tech industry, one of them needs to explain her what is the MF community and ask her if she wants to join. If she agrees, she has to fill this form: [http://bit.ly/newmf_](http://bit.ly/newmf_)
+
+Then, the 1st member who suggested her as an MF will add her on the MF Slack and write an introduction in #general as soon as she joins.
 Ex: Hey all, I’m glad to introduce you to [name]. I met her/him [somewhere]. (S)he’s skilled at [top 3 skills]. Her/his background in a few words [///]. Follow her on Twitter here: [account].
+
+Then, this same member will send the new MF a private message to:
+- ask her to add a profile picture as it's more friendly
+- share with her the link to the MF directory ([http://bit.ly/MF_directory](http://bit.ly/MF_directory)) and tell her not to hesitate to get in touch with anyone in the community
+- share with her the Slack channels that could be interesting to her (for instance: #dev, #ux, etc.)
+
 
 ### Start a new project
 When you want to start a new project, you need to:
-- ask for advice from the people who are the most skilled to help you
+- ask for advice from the people who will get impacted by your project.
+- ask for advice from the people who are the most skilled to help you.
 - share publicly about the project you are starting if people want to participate.
 
 ### Animate mangrove friends
