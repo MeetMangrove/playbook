@@ -29,17 +29,17 @@ Then, this same member will send the new MF a private message to:
 - share with her the Slack channels that could be interesting to her (for instance: #dev, #ux, etc.)
 
 
-### Start a new project
-When you want to start a new project, you need to:
-- ask for advice from the people who will get impacted by your project.
-- ask for advice from the people who are the most skilled to help you.
-- share publicly about the project you are starting if people want to participate.
-
 ### Animate mangrove friends
 
 As a Mangrove member, you'll have to ensure that the MF community is well-animated by posting regularly, giving feedbacks and helping people.
 
 
+
+### Start a new project
+When you want to start a new project, you need to:
+- ask for advice from the people who will get impacted by your project.
+- ask for advice from the people who are the most skilled to help you.
+- share publicly about the project you are starting if people want to participate.
 
 
 
