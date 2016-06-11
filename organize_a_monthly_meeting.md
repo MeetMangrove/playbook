@@ -1,6 +1,6 @@
 # Monthly Meetings
 
-### Organize a Monthly Meeting
+### Organizing a Monthly Meeting
 
 The monthly meetings have been created to gather our freelance & entrepreneurs friends who share our mindset but also those interested in learning more about our community.
 
