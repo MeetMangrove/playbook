@@ -93,9 +93,7 @@ If you need the password, contact one of the community lead by private message o
 
 Using emoji is highly recommended 💙
 
-### Send emails with Mangrove
-
-As a Mangrove member, you'll need to promote some of our events and contents. Feel free to use our mailing list by using Mailchimp. Follow the previous templates. If you need the password, contact the community lead by private message on Slack.
+Besides, feel free to use our mailing list by using Mailchimp. Follow the previous templates. If you need the password, here again, contact the community lead by private message on Slack.
 
 ### Impact existing assets
 Existing assets include: website, bots, branding.
