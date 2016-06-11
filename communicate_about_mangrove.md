@@ -1,10 +1,10 @@
 # Communication
 
-### Pitch Mangrove
+### Pitching Mangrove
 
 
 
-### Handle our social media accounts
+### Handling our social media accounts
 
 Each member may create content for the Mangrove social media accounts. All posts must serve the interest of the Mangrove community. In other words, there should be no personal projects unless it's in the Mangrove spirit.
 
