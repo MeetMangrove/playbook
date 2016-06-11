@@ -9,5 +9,5 @@
    * [Organize a Monthly Meeting](organize_a_monthly_meeting.md)
    * [Handle our social media accounts](handle_our_social_media_accounts.md)
    * [Communicate about Mangrove](communicate_about_mangrove.md)
-   * Mangrove Friends
+   * [Mangrove Friends](mangrove_friends.md)
 
