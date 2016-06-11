@@ -9,6 +9,6 @@
    * [Monthly Meetings](organize_a_monthly_meeting.md)
    * [Communication](communicate_about_mangrove.md)
    * [Mangrove Friends](mangrove_friends.md)
-   * Assets & Finances
+   * [Assets & Finances](assets_&_finances.md)
    * [Contribution](contribution.md)
 
