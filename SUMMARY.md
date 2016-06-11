@@ -8,6 +8,6 @@
    * [Retreats](organize_a_retreat.md)
    * [Monthly Meetings](organize_a_monthly_meeting.md)
    * [Handle our social media accounts](handle_our_social_media_accounts.md)
-   * [Communicate](communicate_about_mangrove.md)
+   * [Communication](communicate_about_mangrove.md)
    * [Mangrove Friends](mangrove_friends.md)
 
