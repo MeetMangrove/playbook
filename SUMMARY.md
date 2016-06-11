@@ -10,5 +10,5 @@
    * [Communication](communicate_about_mangrove.md)
    * [Mangrove Friends](mangrove_friends.md)
    * Assets & Finances
-   * Contribution
+   * [Contribution](contribution.md)
 
