@@ -39,10 +39,6 @@ When you want to start a new project, you need to:
 
 As a Mangrove member, you'll have to ensure that the MF community is well-animated by posting regularly, giving feedbacks and helping people.
 
-### Pitch mangrove
-
-
-
 
 
 
