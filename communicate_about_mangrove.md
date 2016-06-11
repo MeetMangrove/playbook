@@ -2,6 +2,7 @@
 
 ### Pitching Mangrove
 
+3 values : trust, freedom & goodwill
 
 
 ### Handling our social media accounts
