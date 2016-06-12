@@ -7,9 +7,9 @@ Being a member of Mangrove means :
 Always keeping in mind the purpose of the organization is key. The only final boss of Mangrove's members is Mangrove's purpose, and only important decision should be made under the light of this purpose. Members' work should converge towards it.
 
 
-### Sharing its ideal and its convictions
+### Sharing its ideal
 
-Members sharing a common strong culture is at the very root of Mangrove's existence. Before everything else, a member shares with Mangrove an ideal of what is a fulfilling professional life, and Mangrove's convictions on how to achieve it.
+Members sharing a common strong culture is at the very root of Mangrove's existence. Before everything else, a member shares with Mangrove an ideal of what is a fulfilling professional life, and Mangrove's bets on how to achieve it. [see section 'What is Mangrove']
 
 
 ### Adhering to its rules and habits, and helping improving them
