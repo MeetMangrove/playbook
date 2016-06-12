@@ -12,6 +12,7 @@
    * [Work and Decision Rules](work_rules.md)
    * [Community Rules](community_rules.md)
    * [Playbook](playbook.md)
+   * Decision rules
 * [How to's](how_to.md)
    * [Communication](communicate_about_mangrove.md)
    * [Contribution](contribution.md)
