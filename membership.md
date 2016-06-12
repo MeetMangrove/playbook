@@ -14,13 +14,14 @@ The question is raised by a Mangrove member and all members must approve it.
 
 Here are the main points that must be checked before admitting someone:
 
-1. Is he/she sharing our values? Does he/she believe in the vision we're trying to build?
-2. Has he/she proved his/her will to get involved on a daily basis in the building of Mangrove in the long-term?
-3. Does he/she has an entrepreneurial mindset? 
+1. Is he/she sharing our values? (Trust, Goodwill, Freedom, positive mindset)
+2. Does he/she believe in the vision we're trying to build?
+3. Has he/she proved his/her will to get involved on a daily basis in the building of Mangrove in the long-term?
+4. Does he/she has an entrepreneurial mindset?
 > Side projects are a good way to evaluate this.
 
-4. Does he/she possess amazing skills in his/her field ?
-5. Would it be ok to have that person as a leader of Mangrove project?
+5. Does he/she possess amazing skills in his/her field ?
+6. Would it be ok to have that person as a leader of Mangrove project?
 
         Examples of people we don't want inside Mangrove
         - joining Mangrove to get more contracts
