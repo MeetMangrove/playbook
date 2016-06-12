@@ -7,6 +7,7 @@
    * [Routines](routines.md)
    * Membership
    * [Issues Management](issues.md)
+   * Workplaces
 * [How to's](how_to.md)
    * [Communication](communicate_about_mangrove.md)
    * [Contribution](contribution.md)
