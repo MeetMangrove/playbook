@@ -19,3 +19,23 @@ A project can be handled and managed in many different ways, and include several
 - having an identified leader responsible for its avancement, which ensures that it will be conducted to the end. This management mode is necessary when the project is really mandatory for Mangrove, on when commitments have to be taken, like when organising a monthly meeting or a retreat.
 - being something that members talk about and work on, without clear management, like working on a new bot. In this case, the outcome is not guaranteed, and will be the resultant of the energy and will of the members. This is management mode is a very good way for Mangrove to listen to its inner self, instead of working on actions planned according to a strategy.
 
+
+
+### Mangrove Ownership Points
+Contributing to Mangrove gives the right to accumulate Mangrove Ownership Points (MOP). This points are not legal ownership rights like are shareholder's actions, but gives you weight in Mangrove's inner workings. 
+At the beginning of each month, you write a text about your contribution to the ecosystem during the month before, and attribute yourself points for that. These points are publicly shared on slack and an harmonization discussion happens there involving all the MM. If needed or if the subject is complex, an appear.in will be scheduled for this purpose.
+> when the number of MM will exceed 10, this process will no more involve all the community at one time
+At the end, you are free to attribute yourself the number of points you want ; but it is highly recommanded that you follow what the community suggested on this matter if it had remarks on your amount.
+The points give you more weight in the decision making process
+
+
+### Decision Making
+Mangrove is based on freedom, transparency, and a strong sense of collectiveness. Therefore in most of the cases, you can make your own decisions, ensuring that :
+1. they follow Mangrove's purpose
+2. you consult the relevant advisors about them, and/or the members who will be impacted
+3. your promptly inform the members about your decisions (via slack)
+
+Nevertheless, some important decisions must be validated by the members. This is done by a vote in which the member’s weights are the amount of Mangrove Points their own. These decisions are :
+1. Modifying the playbook, except for the "how to" section.
+2. Making an important investment
+3. Selling an asset
