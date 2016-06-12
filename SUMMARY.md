@@ -10,7 +10,7 @@
    * Workplaces
    * Finances & Assets
    * [Work Rules](work_rules.md)
-   * Community Rules
+   * [Community Rules](community_rules.md)
 * [How to's](how_to.md)
    * [Communication](communicate_about_mangrove.md)
    * [Contribution](contribution.md)
