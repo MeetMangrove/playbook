@@ -7,7 +7,7 @@
    * [Routines](routines.md)
    * Membership
    * [Issues Management](issues.md)
-   * Workplaces
+   * [Workplaces](workplaces.md)
    * [Finances & Assets](finances_&_assets.md)
    * [Work Rules](work_rules.md)
    * [Community Rules](community_rules.md)
