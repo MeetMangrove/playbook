@@ -1,2 +1,2 @@
-# Issues
+# Issues Management
 
