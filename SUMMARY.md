@@ -9,6 +9,7 @@
    * [Issues Management](issues.md)
    * Workplaces
    * Finances & Assets
+   * Work rules
 * [How to's](how_to.md)
    * [Communication](communicate_about_mangrove.md)
    * [Contribution](contribution.md)
