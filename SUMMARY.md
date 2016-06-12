@@ -6,7 +6,7 @@
 * [The rules](the_rules.md)
    * [Routines](routines.md)
    * Membership
-   * Issues
+   * [Issues](issues.md)
 * [How to's](how_to.md)
    * [Communication](communicate_about_mangrove.md)
    * [Contribution](contribution.md)
