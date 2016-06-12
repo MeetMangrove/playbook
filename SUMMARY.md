@@ -5,7 +5,7 @@
 * [Being a member](being_a_member.md)
 * [The rules](the_rules.md)
    * [Routines](routines.md)
-   * Membership
+   * [Membership](membership.md)
    * [Issues Management](issues.md)
    * [Workplaces](workplaces.md)
    * [Finances & Assets](finances_&_assets.md)
