@@ -9,7 +9,7 @@
    * [Issues Management](issues.md)
    * [Workplaces](workplaces.md)
    * [Finances & Assets](finances_&_assets.md)
-   * [Work Rules](work_rules.md)
+   * [Work and Decision Rules](work_rules.md)
    * [Community Rules](community_rules.md)
 * [How to's](how_to.md)
    * [Communication](communicate_about_mangrove.md)
