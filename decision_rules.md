@@ -1,2 +1,2 @@
-# Decision rules
+# Decision Rules
 
