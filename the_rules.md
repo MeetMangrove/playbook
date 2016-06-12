@@ -1,74 +1,11 @@
 # The rules
 
 
-### Time Off
-Up to 5 weeks without being implied in Mangrove.
-More than 5 weeks = becoming a Mangrove friend temporarily and not being responsible for Mangrove projects anymore.
-
 ### Engagement issues
 If you feel there is a problem related to a member's engagement in the community (lack of work dedicated to Mangrove, mindset issues, etc.), the first thing to do is to go and talk about it with this member.
 If this doesn't solve the problem, you should talk about it with other members.
 If 3 members agree on a lack of engagement from a Mangrove member, they need to talk to this member and share publicly that this talk happened.
 45 days later, if 3 members (not necessarily the same ones) are still unsatisfied about this member’s engagement, they should share the information publicly and ask for a vote: “Should this member still be an  Mangrove member?". After 5 days of voting, if more than 30% of the voters agree that she should become a Mangrove friend, the member becomes a Mangrove friend (= no more responsibilities within Mangrove) or can leave the community.
-
-### Integrating new members
-
-After sharing a retreat or a project with a Mangrove Friend, we can decide to integrate him/her to our core team.
-
-**Deciding**
-
-The question is raised by a Mangrove member and all members must approve it.
-
-
-> When Mangrove reaches 10 members, we'll switch to 5 randomly chosen Mangrove members.
-
-Here are the main points that must be checked before admitting someone:
-
-1. Is he/she sharing our values? Does he/she believe in the vision we're trying to build?
-2. Has he/she proved his/her will to get involved on a daily basis in the building of Mangrove in the long-term?
-3. Does he/she has an entrepreneurial mindset? 
-> Side projects are a good way to evaluate this.
-
-4. Does he/she possess amazing skills in his/her field ?
-5. Would it be ok to have that person as a leader of Mangrove project?
-
-        Examples of people we don't want inside Mangrove
-        - joining Mangrove to get more contracts
-        - joining only because it's cool to be part of it
-        - expecting to be told what to do once inside the company
-
-**Integrating**
-
-When the decision is taken, the member who raised the question is responsible for the integration of the new member.
-
-Key steps:
-
- 1. Call or meet him/her to give the awesome news.
- 2. Onboard him/her by taking the time to explain how things are going lately, and refer to this playbook.
- 3. Invite to Slack, Google Drive & Trello.
- 4. Make a starting point with the most MM possible
-> Diner or appear.in are good options.
-
- 6. Update meetmangrove.com/us with a PR (or ask someone who knows how to do it).
- 6. Slack bots Rachid and Pairing Dancers will be updated automatically.
- 7. Yeah you're done!
-
-**Trial period**
-
-When someone joins Mangrove, he starts a trial period of 3 months. The goal is to see if the fit is real, so it work both ways (the new member might not feel good inside such an organisation for ex).
-
-Every new member gets to choose 2 mentors. They are providing the help needed on a personal level (Mangrove integration, mood) & on a professional level (projects & revenue).
-
-Trial steps:
-
-1. Day 0 - Starting Point
-2. Day 30 - First month review
-> Gather at least 5 MM including the 2 mentors (appear.in or diner). See how things are going, both ways. At the end of the review decide together to continue or to stop (go back to MF).
-
-3. Day 90 - End of trial
-> Gather at least 5 MM including the 2 mentors (appear.in or diner). See how things are going, both ways. 
-3. Final decision
- > The new member chooses publicly 10 members of Mangrove. These members vote anonymously (under the supervision of the 2 mentors) to decide if the new member stays inside Mangrove or goes back to MF. Votes are +1/0/-1. If the new member gets 7 or more +1 and no -1, trial ends and he stays inside Mangrove.
 
 
 ### Responsibility
