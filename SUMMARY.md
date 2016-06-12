@@ -5,6 +5,7 @@
 * [Being a member](being_a_member.md)
 * [The rules](the_rules.md)
    * [Routines](routines.md)
+   * Membership
 * [How to's](how_to.md)
    * [Communication](communicate_about_mangrove.md)
    * [Contribution](contribution.md)
