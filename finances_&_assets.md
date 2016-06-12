@@ -13,7 +13,7 @@ A member cannot use Mangrove physical assets for personal use, as it doesn’t h
 [Detail examples of assets here]
 
 
-### Compensation & Profits
+### Money Management
 All profits generated within Mangrove should be reinvested in other Mangrove projects. (ça suppose quand même que mangrove possède un statut juridique et peut recevoir de l’argent)
 
 When money is needed for a project, a simple validation by vote is needed to proceed to the investment. 
