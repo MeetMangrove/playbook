@@ -26,3 +26,5 @@ Everybody is welcome to join us to talk about new lifestyles and meet awesome fr
 
 Be sure to be the first at the bar to welcome the guest. Make yourself available and don’t hesitate to discuss with the first-time people. 
 
+Make sure to have a good **camera** to document the event and that someone takes the responsibility for the pictures :)
+
