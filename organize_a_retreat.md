@@ -12,7 +12,7 @@ Learn here how to set up and live a perfect Mangrove retreat [add Portugal templ
 
 First, you’ll have to talk with the Mangrove members and get their approval about building a brand new retreat. Once you get the approval of 80% of the team about the dates and the city, you will be in charge to find the perfect house to rent.
 
-Here’s the points you have to check while searching the house:
+Here are the points you have to check while searching the house:
 - a very good WIFI
 - a quiet place
 - a dishwasher
@@ -24,7 +24,7 @@ Once you’ve found at least 3 perfect matches, share your find with the Mangrov
 
 A guest is coming for 1 week and has to be a Mangrove Friends. You’ll have to announce the retreat to all the MF at least 3 months before the start. To do this, create a Google Doc including informations about the spot, the surroundings, the mindset, the rates and a brief explanation about the payment method. 
 
-Each guest stay around 1 week in the house so each week we can host a new batch. Once you have more than 30% of the house filled, you can proceed to the house booking. 
+Each guest stays around 1 week in the house so each week we can host a new batch. Once you have more than 30% of the house filled, you can proceed to the house booking. 
 
 Keep in mind to have well-diversified batchs.
 

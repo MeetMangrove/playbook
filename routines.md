@@ -8,7 +8,7 @@ Like every company, we have a daily routine. The only difference is that it’s 
 
 ****1 - Pairing****
 
-Every week, the Pairing Dancers give you a new buddy. Call him/her 10 minutes everyday from monday to friday. You can talk about your day, both pro and personal, if you feel comfortable with it. Listening is as important as talking.
+Every week, the Pairing Dancers give you a new buddy. Call him/her 10 minutes every day from monday to friday. You can talk about your day, both pro and personal, if you feel comfortable with it. Listening is as important as talking.
 
 > Tips: Make sure to get in touch on monday to set the ideal time for a call during the week.
 
@@ -18,7 +18,7 @@ Every week, the Pairing Dancers give you a new buddy. Call him/her 10 minutes ev
 
 If you bill a new mission to a client, write a brief summary on #missions. It helps you take a step back on how you’re doing as a freelancer, and can create synergies between members for future collaborations.
 
-Ex:
+Example:
 
       Startup Name
 
@@ -32,7 +32,7 @@ Ex:
 
 **3 - #debrief**
 
-When you meet someone interesting, write a short debrief. It helps you keep track of the people you meet, and creates connexions between Mangrove members.
+When you meet someone interesting, write a short debrief. It helps you keep track of the people you meet, and creates connections between Mangrove members.
 
 Key elements:
 - who did you meet?
@@ -63,4 +63,7 @@ Online or offline.
 The goal of these meetings is to share with everyone your mood, what you have done for Mangrove in the last 7 days and what is next (5-10 min/person).
 Every Mangrove member is expected to attend more than 3/4 of weekly meetings and shouldn't miss 2 meetings in a row (except if on vacation).
 If she cannot attend, she needs to share publicly the information before the meeting.
+
+Before each meeting, MM add topics to discuss in Trello so that the call can go smoothly. The goal is to give updates and ask for help, but never to discuss things (discussion calls can be setup after the Weekly).
+One MM is in charge of the Weekly Meeting each week, managing time and speeches (it changes every week, following alphabetical order). This MM is also in charge of the Weekly Update posted on the MF Slack (see How To's => Mangrove Friends).
   
