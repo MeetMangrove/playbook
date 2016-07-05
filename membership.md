@@ -63,7 +63,7 @@ Trial steps:
 
 
 ### Time Off
-Up to 5 weeks without being implied in Mangrove.
+Up to 5 weeks without being involved in Mangrove.
 More than 5 weeks = becoming a Mangrove friend temporarily and not being responsible for Mangrove projects anymore.
 
 
