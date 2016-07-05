@@ -30,7 +30,7 @@ Here are the main points that must be checked before admitting someone:
 
 **Integrating**
 
-When the decision is taken, the member who raised the question is responsible for the integration of the new member.
+When the decision is made, the member who raised the question is responsible for the integration of the new member.
 
 Key steps:
 
