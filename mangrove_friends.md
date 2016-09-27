@@ -11,6 +11,7 @@ Then, this same member will send the new MF a private message to:
 - ask her to add a profile picture as it's more friendly
 - share with her the link to the MF directory ([http://bit.ly/MF_directory](http://bit.ly/MF_directory)) and tell her not to hesitate to get in touch with anyone in the community
 - share with her the Slack channels that could be interesting to her (for instance: #dev, #ux, etc.)
+
 Here is an example of message you can send her to tell her all this : http://bit.ly/welcome_MF
 
 
