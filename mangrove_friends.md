@@ -19,4 +19,5 @@ Here is an example of message you can send her to tell her all this : http://bit
 
 As a Mangrove member, you'll have to ensure that the MF community is well-animated by posting regularly, giving feedbacks and helping people.
 
+Every week, one of the MM writes a Weekly News of what's happening in the community on the MF Slack. This person is the one in charge of the Weekly Call.
 
