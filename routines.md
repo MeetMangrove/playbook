@@ -63,4 +63,7 @@ Online or offline.
 The goal of these meetings is to share with everyone your mood, what you have done for Mangrove in the last 7 days and what is next (5-10 min/person).
 Every Mangrove member is expected to attend more than 3/4 of weekly meetings and shouldn't miss 2 meetings in a row (except if on vacation).
 If she cannot attend, she needs to share publicly the information before the meeting.
+
+Before each meeting, MM add topics to discuss in Trello so that the call can go smoothly. The goal is to give updates and ask for help, but never to discuss things (discussion calls can be setup after the Weekly).
+One MM is in charge of the Weekly Meeting each week, managing time and speeches (it changes every week, following alphabetical order). This MM is also in charge of the Weekly Update posted on the MF Slack (see How To's => Mangrove Friends).
   
