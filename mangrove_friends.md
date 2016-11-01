@@ -19,5 +19,5 @@ Here is an example of message you can send her to tell her all this : http://bit
 
 As a Mangrove member, you'll have to ensure that the MF community is well-animated by posting regularly, giving feedbacks and helping people.
 
-Every week, one of the MM writes a Weekly News of what's happening in the community on the MF Slack. This person is the one in charge of the Weekly Call.
-
+Every week, there's a new MM in charge of the Weekly call and of the Weekly News: a short summary of what's happening in the community (MF+MM). It is sent on the MF Slack #general with a @channel mention and by email to all the MF from the Mangrove email address (hellomangrove@gmail.com). The list of email addresses of the MF can be found [here](bit.ly/mf_spreadsheet).
+At the end of the Weekly News, there should be the Balloon digest: the 5 Slack messages with the biggest count of :balloon: reactions. To find these messages, search "has::balloon:" on Slack.
