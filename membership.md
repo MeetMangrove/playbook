@@ -77,6 +77,5 @@ Some of the benefits of being a mangrove friend include:
 - Being part of the Slack “Mangrove Friends” which contains several helpful services
 - Pay forward / Promotion from the community
 - Early announcements of Mangrove Events
-- Participate to P2P learning sessions with other Mangrove friends to learn and share skills
 - Help by experts in various subjects (copywriting, ux, code, etc)
 - Pairing (if wanted) with other MF and MM
