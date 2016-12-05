@@ -63,6 +63,7 @@ Trial steps:
 
 
 ### Time Off
+Time off is great to take a step back on your life! Please let the rest of the community know when you're off so we can organize accordingly.
 Up to 5 weeks without being involved in Mangrove.
 More than 5 weeks = becoming a Mangrove friend temporarily and not being responsible for Mangrove projects anymore.
 
