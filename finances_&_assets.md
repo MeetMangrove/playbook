@@ -6,7 +6,7 @@
 
 While all assets belong to Mangrove, a person is appointed as responsible for a period of time to be determined, depending on the context. Being responsible of an asset means that we have to take care of it [link to sheperding], in exchange of its use. 
 
-When a member leaves Mangrove, he takes no assets back. He has to delegate the responsibilities he has over the physical assets to other members. He has to seek advice with people directly concerned with this transmission. 
+When a member leaves Mangrove, they take no asset back. They must  delegate the responsibilities they have over the physical assets to other members. They must seek advice with people directly concerned with this transmission as well. 
 
 A member cannot use Mangrove physical assets for personal use, as it doesn’t help the purpose of Mangrove. However, he can ask to affected members to buy or lease it with associated guarantees.
 
