@@ -59,7 +59,7 @@ Trial steps:
 3. Day 90 - End of trial
 > Gather at least 5 MM including the 2 mentors (appear.in or diner). See how things are going, both ways. 
 3. Final decision
- > The new member chooses publicly 10 members of Mangrove. These members vote anonymously (under the supervision of the 2 mentors) to decide if the new member stays inside Mangrove or goes back to MF. Votes are +1/0/-1. If the new member gets 7 or more +1 and no -1, trial ends and he stays inside Mangrove.
+ > The new member chooses publicly 10 members of Mangrove. These members vote anonymously (under the supervision of the 2 mentors) to decide if the new member stays inside Mangrove or goes back to MF. Votes are +1/0/-1. If the new member gets 7 or more +1 and no -1, trial ends and they stay inside Mangrove.
 
 
 ### Time Off
