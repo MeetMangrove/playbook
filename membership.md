@@ -3,7 +3,7 @@
 
 ### Integrating new members
 
-After sharing a retreat or a project with a Mangrove Friend, we can decide to integrate him/her to our core team.
+After sharing a retreat or a project with a Mangrove Friend, we can decide to integrate them into our core team.
 
 **Deciding**
 
@@ -14,13 +14,13 @@ The question is raised by a Mangrove member and all members must approve it.
 
 Here are the main points that must be checked before admitting someone:
 
-1. Is he/she sharing our values? (Trust, Goodwill, Freedom, positive mindset)
-2. Does he/she believe in the vision we're trying to build?
-3. Has he/she proved his/her will to get involved on a daily basis in the building of Mangrove in the long-term?
-4. Does he/she has an entrepreneurial mindset?
+1. Are they sharing our values? (Trust, Goodwill, Freedom, positive mindset)
+2. Do they believe in the vision we're trying to build?
+3. Have they proved their will to get involved on a daily basis in the building of Mangrove in the long-term?
+4. Do they have an entrepreneurial mindset?
 > Side projects are a good way to evaluate this.
 
-5. Does he/she possess amazing skills in his/her field ?
+5. Do they possess amazing skills in their field ?
 6. Would it be ok to have that person as a leader of Mangrove project?
 
         Examples of people we don't want inside Mangrove
@@ -34,8 +34,8 @@ When the decision is made, the member who raised the question is responsible for
 
 Key steps:
 
- 1. Call or meet him/her to give the awesome news.
- 2. Onboard him/her by taking the time to explain how things are going lately, and refer to this playbook.
+ 1. Call or meet them to give the awesome news.
+ 2. Onboard them by taking the time to explain how things are going lately, and refer to this playbook.
  3. Invite to Slack, Google Drive & Trello.
  4. Make a starting point with the most MM possible
 > Diner or appear.in are good options.
