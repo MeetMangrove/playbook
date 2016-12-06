@@ -18,7 +18,7 @@ Every week, the Pairing Dancers give you a new buddy. Call him/her 10 minutes ev
 
 If you bill a new mission to a client, write a brief summary on #missions. It helps you take a step back on how you’re doing as a freelancer, and can create synergies between members for future collaborations.
 
-Ex:
+Example:
 
       Startup Name
 
@@ -32,7 +32,7 @@ Ex:
 
 **3 - #debrief**
 
-When you meet someone interesting, write a short debrief. It helps you keep track of the people you meet, and creates connexions between Mangrove members.
+When you meet someone interesting, write a short debrief. It helps you keep track of the people you meet, and creates connections between Mangrove members.
 
 Key elements:
 - who did you meet?
