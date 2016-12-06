@@ -23,8 +23,8 @@ A project can be handled and managed in many different ways, and include several
 
 ### Mangrove Ownership Points
 Contributing to Mangrove gives the right to accumulate Mangrove Ownership Points (MOP). This points are not legal ownership rights like are shareholder's actions, but gives you weight in Mangrove's inner workings. 
-At the beginning of each month, you write a text about your contribution to the ecosystem during the month before, and attribute yourself points for that. These points are publicly shared on slack and an harmonization discussion happens there involving all the MM. If needed or if the subject is complex, an appear.in will be scheduled for this purpose.
-> when the number of MM will exceed 10, this process will no more involve all the community at one time
-At the end, you are free to attribute yourself the number of points you want ; but it is highly recommanded that you follow what the community suggested on this matter if it had remarks on your amount.
+At the beginning of each month, you write a text about your contribution to the ecosystem during the month before, and attribute yourself points for that. These points are publicly shared on slack and a harmonization discussion happens there involving all the MM. If needed or if the subject is complex, an appear.in will be scheduled for this purpose.
+> when the number of MM will exceed 10, this process will no more involve all the community at one time.
+At the end, you are free to attribute yourself the number of points you want ; but it is highly recommended that you follow what the community suggested on this matter if it had remarks on your amount.
 The points give you more weight in the decision making process
 
