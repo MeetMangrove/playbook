@@ -11,12 +11,12 @@ If 3 members agree on a lack of engagement from a Mangrove member, they need to 
 
 Conflicts happen. It's ok.
 
-**The conflict is about Mangrove's mission
+**If the conflict is about Mangrove's mission
 **
 - Refer to "What is Mangrove" and "The Rules" to see if you can resolve it in an easy way by following a written rule.
 - Talk about it asap on #general. Transparency is one of the key values of Mangrove. No one should be affraid to express misunderstandings or divergent opinions.
 
-**The conflict is about anything else (projects, implication...)
+**If the conflict is about anything else (projects, implication...)
 **
 
 **Step 1**
