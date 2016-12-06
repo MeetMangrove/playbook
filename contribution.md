@@ -26,4 +26,4 @@ When a member participates in the Mangrove Shipping Day, meaning that they dedic
 
 When a member has an exceptionnal impact with their work, they get 3 additional bonus points (+3 cp). Exceptionnal impact means that their involvement significantly helped Mangrove grow.
 
-Every month, 3 members are picked randomly to check that the self-assigned contribution points makes sense with what actually happened. This group can encourage members to revise their recorded contribution, in order to add or remove points. They share a report publicly after this process so the community can know which updates happened.
+Every month, 3 members are picked randomly to check that the self-assigned contribution points are aligned with the actual contribution. This group can encourage members to revise their recorded contribution, in order to add or remove points. They share a report publicly after this process so the community can know which updates happened.
