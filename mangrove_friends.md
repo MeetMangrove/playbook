@@ -17,4 +17,4 @@ Then, this same member will send the new MF a private message to onboard them in
 
 As a Mangrove member, you'll have to ensure that the MF community is well-animated by posting regularly, giving feedbacks and helping people.
 
-Every week, there's a new MM in charge of the Weekly call and of the Weekly News: a short summary of what's happening in the community (MF+MM). It is sent on the MF Slack #general with a @channel mention and by email to all the MF from the Mangrove email address (hellomangrove@gmail.com). The list of email addresses of the MF can be found [here](bit.ly/mf_spreadsheet).
+Every week, there's a new MM in charge of the Weekly call and of the Weekly News: a short summary of what's happening in the community (MF+MM). It is sent on the MF Slack #general with a @channel mention and by email to all the MF from the Mangrove email address (hellomangrove@gmail.com). The list of email addresses of the MF can found using the Slack command "needcontact".
