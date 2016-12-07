@@ -14,21 +14,25 @@
     1. Use **their** words
 
       If you are talking to a fellow startuper, you will use the words "slack", "bot", "members", 
+      > eg: For corporate people, our nomad education is close to a 'seminar'. slack is the equivalent of their 'internal social network'. their closest experience to a 'fellow member' is a 'colleague'. Their 
       
     2. Connect to **their** preoccupations
 
-    3. Use **examples** they can **relate to**
+    3. Use **examples** they can **relate to**, or bridge your exampler to theirs
+    
+
 
     4. Show that you **already know how their perceive you**
     
-      If you are talking for people for all ages and all backgrounds, they will see us as "young people from the startup world". So say in your intro "we are a team of young startupers". 
+      > eg: If you are talking for people of all ages and all backgrounds, they will see us as "young people from the startup world". So say in your intro "we are a team of young startupers". But if you are talking to young graduates, don't say we're "young", they don't see us like that. They just see us as "startupers". 
 
     5. When there are **two sides** of a same thing, always present the side that speaks to them:
     
-      > eg: the pairing process can lead to personal or profesionnal talks. Corporate people are mostly interrested in business efficience : show that it can help someone stuck in his project to get out of isolation. If you talk to someone interested in personal development, talk about how feedbacks help to grow.
+      > eg: the pairing process can lead to personal or professional talks. Corporate people are mostly interested in business efficiency : show that it can help someone stuck in his project to get out of isolation. But if you talk to someone interested in personal development, talk about how feedbacks help to grow.
 
-  2. **Learn** from the **reactions** after your pitch. The first questions or remarks that often come up should be answered, directly or indirectly, in your next presentations
-      > the question of the possibility to go to the retreats when one has a family life often comes up. Incorporate a picture of a father with his child in your deck, and the brain of your audience won't be busy with this question anymore : your pitch will be stronger
+  2. **Learn** from the **reactions** after your pitch. The first questions or remarks that often come up should be answered, directly or indirectly, in your next presentations.
+  
+    > eg: the question of the possibility to go to the retreats when one has a family life often comes up. Incorporate in your deck a picture of a father with his child in a retreat, and the brain of your audience won't be busy with this question anymore : your pitch will be stronger
 
 
 
