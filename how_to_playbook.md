@@ -52,9 +52,9 @@
         
 6. When you are ready to publish your changes :
 
-  ....a. If you suspect that someone might have worked on the same files as you did since you started editing, **repeat step 3. : merge branch ‘master’ into your current branch**. (It will integrate her changes in you file and you will see if they merge harmoniously, or if there is a ‘merge conflict’)
+  ....a. If you suspect that someone might have worked on the same files as you have since you started editing, **repeat step 3. : merge branch ‘master’ into your current branch**. (It will integrate her changes in you files and you will see if they merge harmoniously, or if there is a ‘merge conflict’)
 
-  ....b. **Then, merge your current branch into ‘master’** (when prompted, you can accept to delete your branch if you don’t need it anymore): ![](4.png)
+  ....b. **Then, merge your current branch into ‘master’** (when asked, you can accept to delete your branch if you don’t need it anymore): ![](4.png)
 
   ....c. **Just wait** : the changes should be online within a minute *(if they take time to be visible, clear the cache of your browser and refresh)*
 
@@ -64,9 +64,10 @@
 ### Method 3 : For administrators
 
 The raw git repository can be fetched from
-git clone https://git.gitbook.com/mangrove/playbook.git
-OR
-git fetch origin (if you already have it)
 
+    git clone https://git.gitbook.com/mangrove/playbook.git
+    OR
+    git fetch origin (if you already have it)
+    
 You can then compare branch states, clean up things and make push requests if needed
 
