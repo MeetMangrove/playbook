@@ -20,11 +20,12 @@
 	3. Make your changes to the files
 	4. When you are ready to publish your changes :
 		a. Click on the “save” button when you’re done
-			[image]
+			[image]  ![](http://handbook.enspiral.com/images/contributing-3.png)
 		b. Just wait : the changes should be online within the minute
 
 
-[](https://handbook.enspiral.com/images/contributing-3.png)
+![](http://handbook.enspiral.com/images/contributing-3.png)
+
 
 
 ### Method 2 : Safe Method ###
