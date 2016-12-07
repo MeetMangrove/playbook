@@ -4,7 +4,7 @@
 *updated: 2016 dec 6th*
 
 
-**First of all : check that you have the rights to edit the parts you want to edit. See the **[Playbook Rules](mangrove.gitbooks.io/playbook/content/playbook.html)
+**First of all : check that you have the rights to edit the parts you want to edit. See the **[Playbook Rules](playbook.html)
 
 
 ### Method 1 : Simple but Risky
@@ -15,7 +15,7 @@
 
 
 #####What to do ?
-1. **Go to** [www.gitbook.com/book/mangrove/playbook/edit](www.gitbook.com/book/mangrove/playbook/edit)
+1. **Go to** [www.gitbook.com/book/mangrove/playbook/edit](http://www.gitbook.com/book/mangrove/playbook/edit)
 
 2. **Check that you are on branch “master”:**  ![](1a.png)
 
@@ -25,7 +25,7 @@
 
   a. **Click on the “save” button:** ![](1b.png)
             
-  b. **Just wait** : the changes should be online within the minute
+  b. **Just wait** : the changes should be online within a minute *(if they take time to be visible, clear the cache of your browser and refresh)*
 
 
 
@@ -38,7 +38,7 @@
 
 
 #####What to do ?
-1. **Go to** [www.gitbook.com/book/mangrove/playbook/edit](www.gitbook.com/book/mangrove/playbook/edit)
+1. **Go to** [www.gitbook.com/book/mangrove/playbook/edit](http://www.gitbook.com/book/mangrove/playbook/edit)
 
 2. **Go on a branch of yours** (eg: the one with your name) **or create one:** ![](2a.png)
 
@@ -56,7 +56,7 @@
 
   ....b. **Then, merge your current branch into ‘master’** (when prompted, you can accept to delete your branch if you don’t need it anymore): ![](4.png)
 
-  ....c. **Just wait** : the changes should be online within the minute
+  ....c. **Just wait** : the changes should be online within a minute *(if they take time to be visible, clear the cache of your browser and refresh)*
 
 
 
