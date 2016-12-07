@@ -30,7 +30,7 @@
 
 
 
-### Method 2 : Safe Method ###
+### Method 2 : Safe ###
 
 #####When to use this method ? 
 * When other people might be editing the playbook at the same time
