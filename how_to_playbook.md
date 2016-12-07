@@ -10,21 +10,23 @@
 ### Method 1 : Simple but Risky
 
 #####When to use this method ?
-	* When you are absolutely certain that no one is editing the playbook at the same time as you do.
-	* If someone else is editing it at the same time, you can erase her work when saving yours
+• When you are absolutely certain that no one is editing the playbook at the same time as you do.
+
+• If someone else is editing it at the same time, you can erase her work when saving yours
+
 
 #####What to do ?
-	1. Go to www.gitbook.com/book/mangrove/playbook/edit
-	2. Check that you are on branch “master” :
-		[image]![](https://handbook.enspiral.com/images/contributing-3.png)
-	3. Make your changes to the files
-	4. When you are ready to publish your changes :
-		a. Click on the “save” button when you’re done
-			[image]  ![](http://handbook.enspiral.com/images/contributing-3.png)
-		b. Just wait : the changes should be online within the minute
+> 1/ Go to [www.gitbook.com/book/mangrove/playbook/edit](www.gitbook.com/book/mangrove/playbook/edit)
+>2/ Check that you are on branch “master” :
+![](https://handbook.enspiral.com/images/contributing-1.png)
+>3/ Make your changes to the files
 
+4/ When you are ready to publish your changes :
 
-![](http://handbook.enspiral.com/images/contributing-3.png)
+a. Click on the “save” button when you’re done
+			[image] 
+            
+b. Just wait : the changes should be online within the minute
 
 
 
