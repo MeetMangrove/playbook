@@ -11,7 +11,7 @@
 
 #####When to use this method ?
 * When you are absolutely certain that no one is editing the playbook at the same time as you do.
-* If someone else is editing it at the same time, you can erase her work when saving yours
+**WARNING : If someone else is editing it at the same time, you can erase her work when saving yours**
 
 
 #####What to do ?
