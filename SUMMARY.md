@@ -20,5 +20,5 @@
    * [Mangrove Friends](mangrove_friends.md)
    * [Monthly Meetings](organize_a_monthly_meeting.md)
    * [Retreats](organize_a_retreat.md)
-       * Playbook
+   * Playbook
 
