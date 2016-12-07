@@ -9,4 +9,4 @@ Changes in "What is Mangrove", "Being a member" and "The rules" need the approva
 
 > When we'll reach 20 members, an absolute number of point will be necessary to edit these parts.
 
-Request access in #playbook to begin editing. Yolo
+Request access in #playbook to begin editing.
