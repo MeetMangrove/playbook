@@ -37,7 +37,6 @@
 
 * When you want take time to work on your changes before publishing them
 
-* When you want to show a preview of your changes to your teammates before publishing them
 
 #####What to do ?
 1. Go to [www.gitbook.com/book/mangrove/playbook/edit](www.gitbook.com/book/mangrove/playbook/edit)
