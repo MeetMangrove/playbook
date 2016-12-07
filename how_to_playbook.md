@@ -17,8 +17,10 @@
 
 #####What to do ?
 > 1/ Go to [www.gitbook.com/book/mangrove/playbook/edit](www.gitbook.com/book/mangrove/playbook/edit)
+
 >2/ Check that you are on branch “master” :
 ![](https://handbook.enspiral.com/images/contributing-1.png)
+
 >3/ Make your changes to the files
 
 4/ When you are ready to publish your changes :
