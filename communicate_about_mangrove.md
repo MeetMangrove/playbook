@@ -2,7 +2,34 @@
 
 ### Pitching Mangrove
 
-3 values : trust, freedom & goodwill
+* **Type the command ```mangrovepitch```** in slack to get access to the last **wording**, and to **pitch videos**
+
+* **Who are you pitching to ?** Potential members who are in the startup world ? Interested people who are not in this world ? Managers of big corporations interested in the way we work ? A wide and unknown audience ?
+
+  Depending on the answer, **the words you use** and the **facts & ideas you highlight** should not be the same
+  
+  Here are a few tips for a better pitch :
+  
+  1. **Show that you know your audience:**
+    1. Use **their** words
+
+      If you are talking to a fellow startuper, you will use the words "slack", "bot", "members", 
+      
+    2. Connect to **their** preoccupations
+
+    3. Use **examples** they can **relate to**
+
+    4. Show that you **already know how their perceive you**
+    
+      If you are talking for people for all ages and all backgrounds, they will see us as "young people from the startup world". So say in your intro "we are a team of young startupers". 
+
+    5. When there are **two sides** of a same thing, always present the side that speaks to them:
+    
+      > eg: the pairing process can lead to personal or profesionnal talks. Corporate people are mostly interrested in business efficience : show that it can help someone stuck in his project to get out of isolation. If you talk to someone interested in personal development, talk about how feedbacks help to grow.
+
+  2. **Learn** from the **reactions** after your pitch. The first questions or remarks that often come up should be answered, directly or indirectly, in your next presentations
+      > the question of the possibility to go to the retreats when one has a family life often comes up. Incorporate a picture of a father with his child in your deck, and the brain of your audience won't be busy with this question anymore : your pitch will be stronger
+
 
 
 ### Handling our social media accounts
