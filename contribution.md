@@ -21,7 +21,7 @@ Every week on Monday, a reminder is sent on Slack for the members to record thei
 Spending 1 hour on Mangrove projects : 1 contribution point \(cp\).  
 4 hours: 2 cp.  
 1 whole day: 5 cp.  
-1.5 day: 1.5 cp.
+1.5 day: 7 cp.
 
 When a member participates in the Mangrove Shipping Day, meaning that they dedicate their whole Monday to Mangrove work, they get an additional bonus point \(+1 cp\).
 
