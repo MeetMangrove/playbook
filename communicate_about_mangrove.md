@@ -4,7 +4,7 @@
 
 **Type the command **`mangrovepitch` in slack to get access to the last **wording**, and to **pitch videos**.
 
-**Who are you pitching to?** Potential members who are in the startup world? Interested people who are not in this world ? Managers of big corporations interested in the way we work? A wide and unknown audience? Depending on the answer, **the words you use** and the **facts & ideas you highlight** should not be the same.
+**Who are you pitching to?** Potential members who are in the startup world? Interested people who are not in this world? Managers of big corporations interested in the way we work? A wide and unknown audience? Depending on the answer, **the words you use** and the **facts & ideas you highlight** should not be the same.
 
 Here are a few tips for a better pitch:
 
