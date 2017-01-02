@@ -2,37 +2,37 @@
 
 ### Pitching Mangrove
 
-**Type the command **`mangrovepitch` in slack to get access to the last **wording**, and to **pitch videos**
+**Type the command **`mangrovepitch` in slack to get access to the last **wording**, and to **pitch videos**.
 
-**Who are you pitching to ?** Potential members who are in the startup world ? Interested people who are not in this world ? Managers of big corporations interested in the way we work ? A wide and unknown audience ? Depending on the answer, **the words you use** and the **facts & ideas you highlight** should not be the same
+**Who are you pitching to?** Potential members who are in the startup world? Interested people who are not in this world ? Managers of big corporations interested in the way we work? A wide and unknown audience? Depending on the answer, **the words you use** and the **facts & ideas you highlight** should not be the same.
 
-Here are a few tips for a better pitch :
+Here are a few tips for a better pitch:
 
 1. **Show that you know your audience:**
 
-   1. Use **their** words
+   1. Use **their** words.
 
-      If you are talking to a fellow startuper, you will use the words "slack", "bot", "members"
+      If you are talking to a fellow startuper, you will use the words "slack", "bot", "members".
 
       > eg: For corporate people, our nomad education is close to a 'seminar'. Slack is the equivalent of their 'internal social network'. Their closest experience to a 'member' is a 'colleague', and the 'organisation' is the 'company'. A 'bot' can be called a 'robot' for someone who never heard of bots.
 
-   2. Connect to **their** preoccupations
+   2. Connect to **their** preoccupations.
    
       > eg: the flexibility we offer can have very different advantages for different people. To a young graduate, tell how it allows you to discover the world and keep personal projects while working. To a young parent, tell how it helps you to choose your working hours and be more present at important times for your family and children.
 
       > eg: corporate people often don't have directly the 'personal fulfilment' preoccupation, but the 'human resources' preoccupation is central to them. And both can be easily connected.   
       
-   3. Use **examples** they can **relate to**, or bridge your examples to theirs
+   3. Use **examples** they can **relate to**, or bridge your examples to theirs.
 
-2. Show that you **already know how their perceive you**
+2. Show that you **already know how their perceive you**.
 
    > eg: If you are talking for people of all ages and all backgrounds, they will see us as "young people from the startup world". So say in your intro "we are a team of young startupers". But if you are talking to young graduates, don't say we're "young", they don't see us like that. They just see us as "startupers".
 
-3. When there are **two sides** of a same thing, always present the side that speaks to them
+3. When there are **two sides** of a same thing, always present the side that speaks to them.
 
-   > eg: the pairing process can lead to personal or professional talks. Corporate people are mostly interested in business efficiency : show that it can help someone stuck in his project to get out of isolation. But if you talk to someone interested in personal development, talk about how feedbacks help to grow.
+   > eg: the pairing process can lead to personal or professional talks. Corporate people are mostly interested in business efficiency: show that it can help someone stuck in his project to get out of isolation. But if you talk to someone interested in personal development, talk about how feedbacks help to grow.
    
-   > eg: you can present our openness in terms of ideal : that we deeply believe that more openness is necessary for a more fulfilling society, and how it connects to our values. But to someone else only interested in mechanisms, you can present it under the light of one of its effects, as a powerful tool of inbound marketing.
+   > eg: you can present our openness in terms of ideal: that we deeply believe that more openness is necessary for a more fulfilling society, and how it connects to our values. But to someone else only interested in mechanisms, you can present it under the light of one of its effects, as a powerful tool of inbound marketing.
       
 1. Try to **conclude** on some **takeaways** that can be useful for them in particular.   
 
