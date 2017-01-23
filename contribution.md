@@ -27,7 +27,3 @@ When a member participates in the Mangrove Shipping Day, meaning that they dedic
 
 When a member has an exceptionnal impact with their work, they get 3 additional bonus points \(+3 cp\). Exceptionnal impact means that their involvement significantly helped Mangrove grow.
 
-Every month, 3 members are picked randomly to check that the recorded contribution is aligned with the actual contribution. This group can encourage members to revise their recorded contribution, in order to add or remove points. They share a report publicly after this process so the community can know which updates happened. The goal is to identify patterns to make the process lighter and simpler. 
-
-The minimum monthly contribution is 15 cp \(except if time-off\). If a member doesn't reach this threshold, the 3 members who were picked randomly to check the contribution points this month have to discuss the situation with this member and make sure it doesn't happen again. Each time a member doesn't reach the 15cp,  this group also have to share the information to the rest of the community which can lead to other decisions regarding the member's involvement as a Mangrove member.
-
