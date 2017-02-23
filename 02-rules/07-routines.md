@@ -1,5 +1,6 @@
-# Routines
-
+```
+title: Routines
+```
 
 ### Daily Routine
 
@@ -22,7 +23,7 @@ Example:
 
       Startup Name
 
-      1200$ per month 
+      1200$ per month
       4 hours per week
       - 3 Facebook posts per week
       - 3 tweets per week (and some RT and Like for the other days)
@@ -66,4 +67,3 @@ If she cannot attend, she needs to share publicly the information before the mee
 
 Before each meeting, MM add topics to discuss in Trello so that the call can go smoothly. The goal is to give updates and ask for help, but never to discuss things (discussion calls can be setup after the Weekly).
 One MM is in charge of the Weekly Meeting each week, managing time and speeches (it changes every week, following alphabetical order). This MM is also in charge of the Weekly Update posted on the MF Slack (see How To's => Mangrove Friends).
-  

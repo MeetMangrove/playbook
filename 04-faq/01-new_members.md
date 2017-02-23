@@ -1,4 +1,6 @@
-# New members FAQ
+```
+title: New members FAQ
+```
 
 ### What am i supposed to do in Mangrove ?
 
@@ -18,7 +20,4 @@ _\(\*\) precision : we introduced a notion of rights \(with the 'tracks'\) to ke
 
 For the moment it might _feel_ like that indeed, but it isn’t in reality. To achieve the goal of Mangrove - creating and promoting a new work lifestyle, and creating the tools/frameworks/environment for that - a lot of different aspects of this lifestyle must be developed. And this why the granularity for each project is, for the moment, almost reduced to one person - but with growth, we start to having teams involved instead of individuals, and this trend is going to become stronger and stronger.
 
-### 
-
-
-
+###

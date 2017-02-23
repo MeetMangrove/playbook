@@ -1,4 +1,6 @@
-# Decision Rules
+```
+title: Decision Rules
+```
 
 ### Decision Making
 
@@ -30,7 +32,3 @@ Our system is designed to provide responsibilities \(rights and duties\) to the 
 #### 4. Architect \(100pts + apply\)
 
 * Right to edit "What is Mangrove”, "Being a member”, "The rules” in the playbook
-
-  
-
-

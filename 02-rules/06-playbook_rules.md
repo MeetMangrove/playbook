@@ -1,5 +1,6 @@
-# Playbook
-
+```
+title: Playbook Rules
+```
 
 ### Modifying the Playbook
 

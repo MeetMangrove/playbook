@@ -1,4 +1,6 @@
-# What is Mangrove
+```
+title: What is Mangrove
+```
 
 Mangrove is an ecosystem of tech enthusiasts sharing the same ideal of professional fulfillment. It experiments a new way of working following this ideal, and brings into its wake all those who are sensitive to it.
 
@@ -21,9 +23,9 @@ As personal qualities of its members, Mangrove values :
 - **franchise, clarity and relational maturity** : being part of Mangrove requires a high relational maturity. Its members should be able to manage their egos to find their place in the ecosystem, taking clear positions but leaving space for the rest. They should be very honest with themselves and with the group, and nourish a virtuous circle of positive and constructive interactions with the ecosystem. They should know how to look for solutions instead of showing their anger when a problem appears, and to use non violent communication, because no manager will be there to supervise and solve their problems.
 - **a positive mindset and energy** : knowing how to be positive in all circumstances and having a lot of energy is at the core of Mangrove's mindset. Everyone is not equal regarding these qualities, but they can be cultivated. And we cultivate them a lot.
 - **an ambitious and entrepreneurial mindset** : Mangrove members know how they want to contribute to this world, and they want to do it fully. They are all changemakers in their own way, and they share the ambition of seeing their dreams come true
-- **being a good listener** : Mangrove members are all excellent, but they a not know-it-alls. They even are the contrary : one of the qualities we value the most is being a good listener. This means having empathy, being able to put yourself in another's shoes, being able to really understand what the feelings and ideas of others are. This means being able to put your own convictions aside for a while, the time to fully embrace another point of view. 
+- **being a good listener** : Mangrove members are all excellent, but they a not know-it-alls. They even are the contrary : one of the qualities we value the most is being a good listener. This means having empathy, being able to put yourself in another's shoes, being able to really understand what the feelings and ideas of others are. This means being able to put your own convictions aside for a while, the time to fully embrace another point of view.
 
-    
+
 ### Mangrove's bets
 
 To bring its ideal alive, Mangrove made bets.
@@ -48,5 +50,3 @@ It is not owned by anyone and is not led by an identified leader. It is inspired
 
 # Mangrove friends
 Mangrove friends are people revolving around Mangrove. They share the mindset, the vision and are interested in being part of the ecosystem.
-
-

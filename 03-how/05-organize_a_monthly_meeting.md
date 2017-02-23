@@ -1,4 +1,6 @@
-# Monthly Meetings
+```
+title: Monthly Meetings
+```
 
 ### Organizing a Monthly Meeting
 
@@ -12,7 +14,7 @@ As a monthly meeting leader, you’re in charge of booking a bar with a capacity
 
 **The guests**
 
-Everybody is welcome to join us to talk about new lifestyles and meet awesome freelancers, entrepreneurs and people who want to work differently. 
+Everybody is welcome to join us to talk about new lifestyles and meet awesome freelancers, entrepreneurs and people who want to work differently.
 
 **The announcement**
 
@@ -24,7 +26,6 @@ Everybody is welcome to join us to talk about new lifestyles and meet awesome fr
 
 **The D-Day**
 
-Be sure to be the first at the bar to welcome the guest. Make yourself available and don’t hesitate to discuss with the first-time people. 
+Be sure to be the first at the bar to welcome the guest. Make yourself available and don’t hesitate to discuss with the first-time people.
 
 Make sure to have a good **camera** to document the event and that someone takes the responsibility for the pictures :)
-

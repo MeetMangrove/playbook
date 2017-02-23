@@ -1,4 +1,6 @@
-# Retreats
+```
+title: Retreats
+```
 
 ### Organizing a retreat
 
@@ -16,21 +18,21 @@ Here are the points you have to check while searching the house:
 - a very good WIFI
 - a quiet place
 - a dishwasher
-- some good waves 
+- some good waves
 
 Once you’ve found at least 3 perfect matches, share your find with the Mangrove community to validate the finale house.
 
 **The guests**
 
-A guest is coming for 1 week and has to be a Mangrove Friends. You’ll have to announce the retreat to all the MF at least 3 months before the start. To do this, create a Google Doc including informations about the spot, the surroundings, the mindset, the rates and a brief explanation about the payment method. 
+A guest is coming for 1 week and has to be a Mangrove Friends. You’ll have to announce the retreat to all the MF at least 3 months before the start. To do this, create a Google Doc including informations about the spot, the surroundings, the mindset, the rates and a brief explanation about the payment method.
 
-Each guest stays around 1 week in the house so each week we can host a new batch. Once you have more than 30% of the house filled, you can proceed to the house booking. 
+Each guest stays around 1 week in the house so each week we can host a new batch. Once you have more than 30% of the house filled, you can proceed to the house booking.
 
 Keep in mind to have well-diversified batchs.
 
 **The booking**
 
-If you can pay in advance, just warn the community you’re ready to pay the house. If you’re not able to advance the fees, you will talk with the community to find someone who can pay the house. Then, you have to pay back this member by asking the first Mangrove Friends to pay their rent [see buying something for Mangrove] 
+If you can pay in advance, just warn the community you’re ready to pay the house. If you’re not able to advance the fees, you will talk with the community to find someone who can pay the house. Then, you have to pay back this member by asking the first Mangrove Friends to pay their rent [see buying something for Mangrove]
 
 **The planning**
 
@@ -46,9 +48,7 @@ Each participants will receive from you a survival kit (Google Doc) with useful 
 
 **The co-living**
 
-As a retreat coach, you’ll ensure that: 
+As a retreat coach, you’ll ensure that:
 - The house is ready to host all of the participant each week (house, bed, and towels are clean)
 - To invite the closest tech community to join us for a BBQ 🌭
 - The participants are feeling amazed during their stay.
-
-

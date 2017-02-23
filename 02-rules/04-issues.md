@@ -1,4 +1,6 @@
-# Issues Management
+```
+title: Issues Management
+```
 
 ### Engagement issues
 If you feel there is a problem related to a member's engagement in the community (lack of work dedicated to Mangrove, mindset issues, etc.), the first thing to do is to go and talk about it with this member.
@@ -29,4 +31,3 @@ Conflicts happen. It's ok.
 
 **Step 3**
 - If it doesn't work, talk about it publicly (either on #general or during a call/meeting). Don't forget to stay benevolent. Everybody is on the same mission here, and shit happens. Talk about the project, not the people. Smile :)
-

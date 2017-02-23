@@ -1,8 +1,10 @@
-# Being a member
+```
+title: Being a member
+```
 
 Being a member of Mangrove means :
 
-### Always keeping in mind its purpose 
+### Always keeping in mind its purpose
 
 Always keeping in mind the purpose of the organization is key. The only final boss of Mangrove's members is Mangrove's purpose, and only important decision should be made under the light of this purpose. Members' work should converge towards it.
 
@@ -29,8 +31,3 @@ Implication from every Mangrove member is important. It means :
 
 ### Representing the ecosystem
 Each member should embody Mangrove's values  and its ideal, during highlight moments as well as in everyday life.
-
-
-
-
-

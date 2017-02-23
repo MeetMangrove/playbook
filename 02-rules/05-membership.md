@@ -1,4 +1,6 @@
-# Membership
+```
+title: Membership
+```
 
 ### Integrating new members
 
@@ -87,6 +89,3 @@ Some of the benefits of being a mangrove friend include:
 * Participate to P2P learning sessions with other Mangrove friends to learn and share skills
 * Help by experts in various subjects \(copywriting, ux, code, etc\)
 * Pairing \(if wanted\) with other MF and MM
-
-
-

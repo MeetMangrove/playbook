@@ -1,4 +1,6 @@
-# Contribution
+```
+title: Contribution
+```
 
 ### Starting a new project
 
@@ -26,4 +28,3 @@ Spending 1 hour on Mangrove projects : 1 contribution point \(cp\).
 When a member participates in the Mangrove Shipping Day, meaning that they dedicate their whole Monday to Mangrove work, they get an additional bonus point \(+1 cp\).
 
 When a member has an exceptionnal impact with their work, they get 3 additional bonus points \(+3 cp\). Exceptionnal impact means that their involvement significantly helped Mangrove grow.
-
