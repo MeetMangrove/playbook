@@ -1,0 +1,24 @@
+sudo: false
+language: ruby
+rvm:
+  - "2.2"
+
+after_success: |
+  # Rerun another project's tests
+  # https://github.com/balupton/awesome-travis#rerun-another-projects-tests
+  if [ ! -z $GITHUB_TRAVIS_TOKEN ]; then
+    echo "pinging $OTHER_REPO_SLUG..."
+    gem install travis curb --no-rdoc --no-ri
+    travis login --skip-completion-check --org --github-token "$GITHUB_TRAVIS_TOKEN"
+    export TRAVIS_ACCESS_TOKEN=`cat ~/.travis/config.yml | grep access_token | sed 's/ *access_token: *//'`
+    travis restart --debug --skip-completion-check --org -r "$OTHER_REPO_SLUG" -t "$TRAVIS_ACCESS_TOKEN"
+    echo "pinged $OTHER_REPO_SLUG"
+  else
+    echo "skipped ping $OTHER_REPO_SLUG"
+  fi
+
+env:
+  global:
+    # Deployment Environment Variables
+    # travis encrypt "GITHUB_TRAVIS_TOKEN=$GITHUB_TRAVIS_TOKEN" --add env.global
+    - OTHER_REPO_SLUG='bevry/staticsitegenerators-website'
