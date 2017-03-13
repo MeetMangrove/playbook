@@ -19,18 +19,16 @@ Here are the main points that must be checked before admitting someone:
 3. Have they proved their will to get involved on a daily basis in the building of Mangrove in the long-term?
 4. Do they have an entrepreneurial mindset?
 
-   > Side projects are a good way to evaluate this.
+  > Side projects are a good way to evaluate this.
 
 5. Do they possess amazing skills in their field ?
 
 6. Would it be ok to have that person as a leader of Mangrove project?
 
-   ```
-    Examples of people we don't want inside Mangrove
-    - joining Mangrove to get more contracts
-    - joining only because it's cool to be part of it
-    - expecting to be told what to do once inside the company
-   ```
+  > Examples of people we don't want inside Mangrove
+  > - joining Mangrove to get more contracts
+  > - joining only because it's cool to be part of it
+  > - expecting to be told what to do once inside the company
 
 **Integrating**
 
