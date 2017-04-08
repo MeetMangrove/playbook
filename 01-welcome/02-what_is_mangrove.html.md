@@ -9,7 +9,8 @@ Mangrove is an ecosystem of tech enthusiasts sharing the same ideal of professio
 
 The purpose of Mangrove as an organization is the professional fulfillment of its members.
 
-Mangrove's ideal of professional fulfillment consists of several cardinal points :
+Mangrove's ideal of professional fulfillment consists of several cardinal points:
+
 - **benevolence** : we believe that working in a climate of benevolence and goodwill is both mandatory for professional wellness and a condition of efficiency. We have seen too many companies or workplaces were the climate was hard, were people were in competition with each other or had to hide who they were by fear of consequences
 - **trust** : we know that a climate of trust is at the root of every great collective achievement. Trust in Mangrove is by default. We see no value in managing by control and strong supervision.
 - **sense of collectiveness** : in Mangrove, we all want to succeed together, and we want to by surrounded by people with the same mindset. We value cooperation over competition, sharing over hiding and protecting, collective achievement over standing out personally
@@ -17,7 +18,8 @@ Mangrove's ideal of professional fulfillment consists of several cardinal points
 - **will to grow** : humility and the will to grow together are important values shared in Mangrove. We all still have everything to learn, whichever our levels of expertise are, and it is important for us to keep that in mind.
 - **diversity of individualities** : being surrounded only by profiles similar to yours bring nothing good. It makes consensus easy to reach, but kills creativity and stimulation. In Mangrove, we are all eager to be surrounded every day by people very different from us.
 
-As personal qualities of its members, Mangrove values :
+As personal qualities of its members, Mangrove values:
+
 - **openness and curiosity** : these values are quite common but have a strong meaning for Mangrove. It was originally created thanks to the curiosity of it first members for new ways of working, and their openness to listening to new and uncommon ideas. This spirit, at the root of Mangrove, should persist with ever member.
 - **thoughtfulness** : thoughtfulness, and the capacity of having deep insight on things, seeing further than the evidences, identifying the social norms, are important qualities for us. It allows our reflexions to be deep, wise and meaningful.
 - **franchise, clarity and relational maturity** : being part of Mangrove requires a high relational maturity. Its members should be able to manage their egos to find their place in the ecosystem, taking clear positions but leaving space for the rest. They should be very honest with themselves and with the group, and nourish a virtuous circle of positive and constructive interactions with the ecosystem. They should know how to look for solutions instead of showing their anger when a problem appears, and to use non violent communication, because no manager will be there to supervise and solve their problems.
