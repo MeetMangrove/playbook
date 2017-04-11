@@ -10,7 +10,7 @@ The playbook is split into two separate repositories; one for [content](https://
 ## Content
 
 If you find typos or have suggestions for the content, you can find an "Edit or improve this page!" link at the bottom of the page.
-Clicking that will take you to the [repository](https://github.com/MeetMangrove/playbook) on GitHub where you can directly edit the page content that you were on. To make any edits to the site, you will need a [GitHub](https://github.com) account.
+Clicking that will take you to the [repository](https://github.com/MeetMangrove/playbook) on GitHub where you can directly suggest edits to the page content that you were on. To make suggestions to the site, you will need a [GitHub](https://github.com) account.
 
 You can view active discussions about the playbook content on the [issues tab](https://github.com/MeetMangrove/playbook/issues) on the repository. You can also start a new discussion by [creating an issue](https://github.com/MeetMangrove/playbook/issues/new).
 
@@ -20,7 +20,7 @@ The content uses Markdown which you can find out more about by checking the [Mar
 
 ### Mangrove Members
 
-As a Mangrove Member, you can directly make edits to the site.
+As a Mangrove Member part of the Architect track, you can directly make edits to the site.
 
 1. If you're comfortable editing the content, you can directly submit your edits by selecting "commit directly to the master branch".(*)
 1. If you're unsure of your edits or the edits need to be reviewed, select "Create a new branch for this commit and start a pull request" and submit the form. One or more Mangrove Members can then review your changes and then update the site accordingly.
