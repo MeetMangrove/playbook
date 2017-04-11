@@ -28,7 +28,7 @@ As personal qualities of its members, Mangrove values :
 
 ### Mangrove's bets
 
-To bring its ideal alive, Mangrove made bets.
+To bring its ideal alive, Mangrove made bets in January 2016.
 
 **Mangrove bets that a new way of working is now possible.**
 A way of working that allows us to reconcile our aspiration for individual freedom and the strength of a community united by common values. Work shouldn’t be an experience filled with sacrifice or alienation but it should be a means for personal fulfillment.
@@ -48,5 +48,5 @@ Mangrove is an ecosystem both open to its environment and anchored with deep roo
 It is not owned by anyone and is not led by an identified leader. It is inspired from different models of new organizations, like the Teal Organization and Holacracy.
 
 
-# Mangrove friends
+### Mangrove friends
 Mangrove friends are people revolving around Mangrove. They share the mindset, the vision and are interested in being part of the ecosystem.
