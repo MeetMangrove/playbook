@@ -22,7 +22,7 @@ Here are a few tips for a better pitch:
 
       > eg: the flexibility we offer can have very different advantages for different people. To a young graduate, tell how it allows you to discover the world and keep personal projects while working. To a young parent, tell how it helps you to choose your working hours and be more present at important times for your family and children.
 
-      > eg: corporate people often don't have directly the 'personal fulfilment' preoccupation, but the 'human resources' preoccupation is central to them. And both can be easily connected.   
+      > eg: corporate people often don't have directly the 'personal fulfilment' preoccupation, but the 'human resources' preoccupation is central to them. And both can be easily connected.
 
    3. Use **examples** they can **relate to**, or bridge your examples to theirs.
 
@@ -36,7 +36,7 @@ Here are a few tips for a better pitch:
 
    > eg: you can present our openness in terms of ideal: that we deeply believe that more openness is necessary for a more fulfilling society, and how it connects to our values. But to someone else only interested in mechanisms, you can present it under the light of one of its effects, as a powerful tool of inbound marketing.
 
-1. Try to **conclude** on some **takeaways** that can be useful for them in particular.   
+1. Try to **conclude** on some **takeaways** that can be useful for them in particular.
 
 1. **Learn** from the **reactions** after your pitch. The first questions or remarks that often come up should be answered, directly or indirectly, in your next presentations.
 
@@ -44,7 +44,7 @@ Here are a few tips for a better pitch:
 
 ### Handling our social media accounts
 
-Each month, two community leaders are appointed by the Mangrove members on Slack.  
+Each month, two community leaders are appointed by the Mangrove members on Slack.
 The first one is responsible for maintaining our social media active with a fluid publication calendar. The second one has to manage and answer the Mangrove emails.
 
 Community leaders are also responsible for keeping a consistent editorial line. They must be proactive and create most of the content while carrying out their duties.
