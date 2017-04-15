@@ -6,6 +6,8 @@ description: Every Mangrove member is a co-founder. It means we all are entitled
 Mangrove is an ecosystem of tech enthusiasts sharing the same ideal of professional fulfillment. It experiments a new way of working following this ideal, and brings into its wake all those who are sensitive to it.
 
 
+![mangrove](/images/illustrations/what.gif)
+
 ### Mangrove's purpose and ideal
 
 The purpose of Mangrove as an organization is the professional fulfillment of its members.

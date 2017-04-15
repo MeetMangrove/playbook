@@ -13,6 +13,7 @@ Always keeping in mind the purpose of the organization is key. The only final bo
 
 Members sharing a common strong culture is at the very root of Mangrove's existence. Before everything else, a member shares with Mangrove an ideal of what is a fulfilling professional life, and Mangrove's bets on how to achieve it - see [What is Mangrove](/welcome/what_is_mangrove).
 
+![members](/images/illustrations/member.gif)
 
 ### Adhering to its rules and habits, and helping improving them
 
