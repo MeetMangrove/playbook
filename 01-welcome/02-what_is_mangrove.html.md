@@ -1,5 +1,6 @@
 ```
 title: What is Mangrove
+description: Every Mangrove member is a co-founder. It means we all are entitled to start new ventures inside our ecosystem.
 ```
 
 Mangrove is an ecosystem of tech enthusiasts sharing the same ideal of professional fulfillment. It experiments a new way of working following this ideal, and brings into its wake all those who are sensitive to it.
