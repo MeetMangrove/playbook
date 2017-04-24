@@ -33,7 +33,7 @@ For finding out what you can edit directly, and what requires review, please ref
 
 As a contributor who is not a Mangrove Member, you can still make and suggest edits to the playbook. We really appreciate everyone's contributions and hope you will let us know of any issues you spot or improvements you suggest.
 
-After clicking the "Edit or improve this page!" link at the bottom of the page you are concerned with, you will be able to modify the content directly. After making your changes, submit the form then click "Create Pull Request". Add any comments you need to describe your changes and an appropriate title for them. Your changes will be reviewed by a Mangrove Member and hopefully incorporated into the site.
+After clicking the `Improve` link at the bottom of the page you are concerned with, you will be able to modify the content directly. After making your changes, submit the form then click "Create Pull Request". Add any comments you need to describe your changes and an appropriate title for them. Your changes will be reviewed by a Mangrove Member and hopefully incorporated into the site.
 
 If you need a more detailed description of how to propose changes, you can also see the instructions from GitHub [here](https://help.github.com/articles/editing-files-in-another-user-s-repository/).
 
