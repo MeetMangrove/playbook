@@ -2,7 +2,7 @@
 title: New members FAQ
 ```
 
-### What am i supposed to do in Mangrove ?
+### What am I supposed to do in Mangrove ?
 
 The only thing you’re **supposed** to do is to contribue, in a way that brings value to Mangrove. When it comes down to what to do precisely, only you can choose it - the other members can only help you find it.
 
@@ -19,5 +19,3 @@ _\(\*\) precision : we introduced a notion of rights \(with the 'tracks'\) to ke
 ### Why does Mangrove sometimes feels like individual projects which align with the philosophy ?
 
 For the moment it might _feel_ like that indeed, but it isn’t in reality. To achieve the goal of Mangrove - creating and promoting a new work lifestyle, and creating the tools/frameworks/environment for that - a lot of different aspects of this lifestyle must be developed. And this why the granularity for each project is, for the moment, almost reduced to one person - but with growth, we start to having teams involved instead of individuals, and this trend is going to become stronger and stronger.
-
-###
