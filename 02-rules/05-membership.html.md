@@ -43,7 +43,7 @@ Key steps:
 
    > Dinner or appear.in are good options.
 
-5. Update meetmangrove.com/us with a PR \(or ask someone who knows how to do it\).
+5. Update mangrove.io/team with a PR \(or ask someone who knows how to do it\).
 
 6. Slack bots Rachid and Pairing Dancers will be updated automatically.
 7. Yeah you're done!
