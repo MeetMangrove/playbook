@@ -4,7 +4,7 @@ ignored: true
 
 ## Welcome to Mangrove's Playbook Repository
 
-It's pulled into the [Mangrove Playbook Website](https://github.com/meetmangrove/playbook-website) and rendered by [DocPad](https://docpad.org) into beautiful documentation. Feel free to submit pull requests and post issues for it - one of our moderators will get to your changes as quickly as possible :)
+It's pulled into the [Mangrove Playbook Website](https://github.com/MeetMangrove/playbook-website) and rendered by [DocPad](https://docpad.org) into beautiful documentation. Feel free to submit pull requests and post issues for it - one of our moderators will get to your changes as quickly as possible :)
 
 
 ## Note on Links
