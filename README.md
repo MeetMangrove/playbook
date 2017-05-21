@@ -4,6 +4,12 @@ ignored: true
 
 ## Welcome to Mangrove's Playbook Repository
 
+<!-- BADGES/ -->
+
+<span class="badge-travisci"><a href="http://travis-ci.org/MeetMangrove/playbook" title="Check this project's build status on TravisCI"><img src="https://img.shields.io/travis/MeetMangrove/playbook/master.svg" alt="Travis CI Build Status" /></a></span>
+
+<!-- /BADGES -->
+
 It's pulled into the [Mangrove Playbook Website](https://github.com/MeetMangrove/playbook-website) and rendered by [DocPad](https://docpad.org) into beautiful documentation. Feel free to submit pull requests and post issues for it - one of our moderators will get to your changes as quickly as possible :)
 
 
