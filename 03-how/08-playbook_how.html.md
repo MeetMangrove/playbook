@@ -4,7 +4,7 @@ title: How to update the Playbook
 
 
 
-## Vistors and Mangrove friends
+## Visitors and Mangrove friends
 
 If you find typos or have suggestions for the content, you can find an `Improve` link at the bottom of the page.
 Clicking that will take you to a [Github repository](https://github.com/MeetMangrove/playbook) where you can directly suggest edits to the page content that you were on. You will need a [GitHub](https://github.com) account to access this page (it's free).
