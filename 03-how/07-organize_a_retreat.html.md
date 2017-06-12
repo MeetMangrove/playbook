@@ -8,7 +8,7 @@ Retreats are an important part of Mangrove. Mangrove was born on a retreat in Ja
 
 **The organizer**
 
-The retreat organizer is responsible of making the retreat a success. If you want to know more about our organization process? Learn here how we set up a perfect retreat at Mangrove: https://trello.com/b/MZTrLlOI/leading-a-retreat
+The retreat organizer is responsible of making the retreat a success. If you want to know more about our organization process, learn here how we set up a perfect retreat at Mangrove: https://trello.com/b/MZTrLlOI/leading-a-retreat
 
 **The guests**
 
