@@ -24,11 +24,26 @@ Our system is designed to provide responsibilities \(rights and duties\) to the 
 * Manage website modifications \(wording & design\)
 * Send and answer emails on behalf of Mangrove
 
-#### 3. Speaker \(50pts + apply\)
+#### 3. Connector \(25pts + apply\)
+
+The purpose of the connector track is to create a structured way of building connections within Mangrove and the community with the outside world. It isn’t about telling the world about Mangrove but about having a structured way for people to interact with and join Mangrove.
+ 
+The connector track came about because of the need to have people on the ground growing Mangrove across the world. We have seen that without sustained energy, hubs quickly become quite and loose value for current and potential members. This indicates ongoing energy is required in the form of hub leaders for new hubs and members in the connector track to support them and other initiatives. 
+ 
+Responsibilities housed in this track:
+* Building and growing hubs (learn how to grow and maintain a hub here)
+* Being a Hub Leader (keeping the energy going)
+* Orchestrating monthly drinks
+* Connecting hub members with value (coworking, coliving, etc)
+* Planning retreats
+* Starting and maintaining events (I.E growth lunch, etc)
+* Making introductions within the mangrove community
+
+#### 4. Speaker \(50pts + apply\)
 
 * Pitch on behalf of Mangrove \(corporate presentations, events and more\)
 
-#### 4. Architect \(100pts + apply\)
+#### 5. Architect \(100pts + apply\)
 
 * Right to edit "What is Mangrove”, "Being a member”, "The rules” in the playbook.
 
