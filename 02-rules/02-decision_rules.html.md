@@ -47,3 +47,8 @@ Responsibilities housed in this track:
 
 * Right to edit "What is Mangrove”, "Being a member”, "The rules” in the playbook.
 
+#### 6. Hacker \(25pts + apply\)
+
+* Manage and take responsibilities of the mangrove’s tech ecosystem
+* Help MB/MF in building new tools and insert them in the mangrove’s tech ecosystem
+* Ensure mangrove’s products maintenance and scalability
