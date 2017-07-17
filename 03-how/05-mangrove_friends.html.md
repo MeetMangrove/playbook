@@ -17,7 +17,7 @@ Ex: Hey all, I’m glad to introduce you to [name]. I met her/him [somewhere]. (
 Then, this same member will send the new MF a private message to onboard them in the community: share the link to the MF directory, the Slack channels that could be interesting to them, and the list of projects they can get involved in. Find the template of Welcome message using the "newmf" command on Slack.
 
 
-### Enagaging with Mangrove friends
+### Engaging with Mangrove Friends
 
 As a Mangrove member, you'll have to ensure that the MF community is active by posting regularly, giving feedback and helping people.
 

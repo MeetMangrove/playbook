@@ -24,7 +24,7 @@ A member can, and should, be critical of Mangrove's habits, but should globally 
 
 Mangrove is experimenting new modes of organization and governance. Its members should keep this in mind and keep an experimental mindset, learning from errors to refine the model.
 
-### Being implied in the life and the construction of the ecosystem
+### Being involved in the life and the construction of the ecosystem
 
 Implication from every Mangrove member is important. It means :
 

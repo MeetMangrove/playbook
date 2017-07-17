@@ -35,5 +35,5 @@ Contribution points can be earned by spending time working on Mangrove. See the 
 
 Mangrove Builders can also earn additional points through the following:
 
-* Participating in Mangrove Shipping Day, meaning that they dedicate their whole Monday to Mangrove work - get an additional bonus point \(+1 cp\).
-* Exceptional impact with their work, meaning that their involvement significantly helped Mangrove grow - get 3 additional bonus points \(+3 cp\).
+* Participating in Mangrove Shipping Day, meaning that they dedicate their whole Monday to Mangrove work - get an additional bonus point \(+1 CP\).
+* Exceptional impact with their work, meaning that their involvement significantly helped Mangrove grow - get 3 additional bonus points \(+3 CP\).

@@ -4,7 +4,7 @@ title: New members FAQ
 
 ### What am I supposed to do in Mangrove ?
 
-The only thing you’re **supposed** to do is to contribue, in a way that brings value to Mangrove. When it comes down to what to do precisely, only you can choose it - the other members can only help you find it.
+The only thing you’re **supposed** to do is to contribute, in a way that brings value to Mangrove. When it comes down to what to do precisely, only you can choose it - the other members can only help you find it.
 
 * Look at the ongoing projects and efforts, pick the one you like the most, and propose ways you can help. Other builders already on the project will welcome your energy if you offer it! There are so many issues to tackle!
 
@@ -16,6 +16,6 @@ The steps to achieve our vision are only ‘loosely’ planned, on purpose. We c
 
 _\(\*\) precision : we introduced a notion of rights \(with the 'tracks'\) to keep this freedom while taking more newcomers without endangering the integrity of the organisation : you cannot from the very beginning have the right to change the website only by yourself or integrate a new member. But you can help building peer to peer learning processes, work on co-living or co-working projects, work on the project helping people to switch to freelancing.._
 
-### Why does Mangrove sometimes feels like individual projects which align with the philosophy?
+### Why does Mangrove sometimes feel like a collection of individual projects which align with the philosophy?
 
 For the moment it might _feel_ like that indeed, but it isn’t in reality. To achieve the goal of Mangrove - creating and promoting a new work lifestyle, and creating the tools/frameworks/environment for that - a lot of different aspects of this lifestyle must be developed. This is why the granularity for each project is, for the moment, almost reduced to one person - but with growth, we will start having teams involved instead of individuals, and this trend is going to become stronger and stronger.

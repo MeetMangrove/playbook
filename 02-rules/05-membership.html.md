@@ -28,7 +28,7 @@ Here are the main points that must be checked before admitting someone:
   > Examples of people we don't want inside Mangrove
   > - joining Mangrove to get more contracts
   > - joining only because it's cool to be part of it
-  > - expecting to be told what to do once inside the company
+  > - expecting to be told what to do once inside Mangrove
 
 **Integrating**
 
@@ -50,7 +50,7 @@ Key steps:
 
 **Trial period**
 
-When someone joins Mangrove, he/she starts a trial period of 3 months. The goal is to see if they fit the organiztion. This work both ways \(the new member might not feel good inside the organisation for example\).
+When someone joins Mangrove, he/she starts a trial period of 3 months. The goal is to see if they fit the organization. This works both ways \(the new member might not feel good inside the organization for example\).
 
 Every new member gets to choose 2 mentors. Mentors provide the help needed on a personal level \(Mangrove integration, mood\) & on a professional level \(projects & revenue\).
 
@@ -75,14 +75,14 @@ A member is allowed up to 5 weeks without being involved in Mangrove. More than 
 
 ### Mangrove Friends
 
-Mangrove friends are people revolving around Mangrove. They share the mindset, the vision and are interested in being part of the ecosystem.
+Mangrove Friends are people revolving around Mangrove. They share the mindset, the vision and are interested in being part of the ecosystem.
 
-Some of the benefits of being a mangrove friend include:
+Some of the benefits of being a Mangrove Friend include:
 
 * Being invited to the Mangrove retreats
 * Being part of the Mangrove Friends Slack which contains several helpful services
 * Pay forward / Promotion from the community
 * Early announcements of Mangrove Events
-* Participate in peer to peer learning sessions with other Mangrove friends to learn and share skills
+* Participate in peer to peer learning sessions with other Mangrove Friends to learn and share skills
 * Help by experts in various subjects \(copywriting, ux, code, etc\)
 * Pairing \(if wanted\) with other Mangrove Friends or Members

@@ -4,14 +4,14 @@ title: Communication
 
 ### Pitching Mangrove
 
-**Type the command **`mangrovepitch` in slack to get access to the latest **wording**, and **pitch videos**.
+**Type the command** `mangrovepitch` in slack to get access to the latest **wording**, and **pitch videos**.
 
-#### Who are you pitching to? 
+#### Who are you pitching?
 
 * Potential builders and friends who are in the startup world?
 * Interested people who are not in this world?
 * Managers of big corporations interested in the way we work?
-* A wide and unknown audience? 
+* A wide and/or unknown audience?
 
 Depending on the answer, **the words you use** and the **facts & ideas you highlight** should change to suit your audience.
 
@@ -28,11 +28,11 @@ Here are a few tips for a better pitch:
    2. Connect to **their** wants and desires.
 
       > eg: the flexibility we offer provides different advantages for different people.
-      
+
       > To a young graduate, talk about how it allows them to discover the world and maintain personal projects while working.
       > To a young parent, talk about how it helps them choose their working hours and be more present at important times for their family and children.
 
-      > eg: corporate people often don't directly relate to the desire for 'personal fulfilment', but they may see 'human resources' as critical. And both can be easily connected.
+      > eg: corporate people often don't directly relate to the desire for 'personal fulfillment', but they may see 'human resources' as critical. And both can be easily connected.
 
    3. Use **examples** they can **relate to** by modifying your examples to meet their needs.
 
