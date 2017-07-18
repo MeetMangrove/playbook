@@ -27,9 +27,9 @@ Our system is designed to provide responsibilities \(rights and duties\) to the 
 #### 3. Connector \(25pts + apply\)
 
 The purpose of the connector track is to create a structured way of building connections within Mangrove and the community with the outside world. It isn’t about telling the world about Mangrove but about having a structured way for people to interact with and join Mangrove.
- 
-The connector track came about because of the need to have people on the ground growing Mangrove across the world. We have seen that without sustained energy, hubs quickly become quite and loose value for current and potential members. This indicates ongoing energy is required in the form of hub leaders for new hubs and members in the connector track to support them and other initiatives. 
- 
+
+The connector track came about because of the need to have people on the ground growing Mangrove across the world. We have seen that without sustained energy, hubs quickly become quiet and lose value for current and potential members. This indicates ongoing energy is required in the form of hub leaders for new hubs and members in the connector track to support them and other initiatives.
+
 Responsibilities housed in this track:
 * Building and growing hubs (learn how to grow and maintain a hub here)
 * Being a Hub Leader (keeping the energy going)
@@ -37,7 +37,7 @@ Responsibilities housed in this track:
 * Connecting hub members with value (coworking, coliving, etc)
 * Planning retreats
 * Starting and maintaining events (I.E growth lunch, etc)
-* Making introductions within the mangrove community
+* Making introductions within the Mangrove community
 
 #### 4. Speaker \(50pts + apply\)
 
@@ -49,6 +49,6 @@ Responsibilities housed in this track:
 
 #### 6. Hacker \(25pts + apply\)
 
-* Manage and take responsibilities of the mangrove’s tech ecosystem
-* Help MB/MF in building new tools and insert them in the mangrove’s tech ecosystem
-* Ensure mangrove’s products maintenance and scalability
+* Manage and take responsibilities of Mangrove’s tech ecosystem
+* Help MB/MF in building new tools and insert them in Mangrove’s tech ecosystem
+* Ensure maintenance and scalability of Mangrove’s products

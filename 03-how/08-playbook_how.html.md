@@ -9,7 +9,7 @@ title: How to update the Playbook
 If you find typos or have suggestions for the content, you can find an `Improve` link at the bottom of the page.
 Clicking that will take you to a [Github repository](https://github.com/MeetMangrove/playbook) where you can directly suggest edits to the page content that you were on. You will need a [GitHub](https://github.com) account to access this page (it's free).
 
-The content is formated with Markdown. Check this [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) if you need help. When editing you can see the result of the file by clicking on Preview near the top.
+The content is formatted with Markdown. Check this [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) if you need help. When editing you can see the result of the file by clicking on Preview near the top.
 
 If needed, you view active discussions about the playbook content on the [issues tab](https://github.com/MeetMangrove/playbook/issues) on the repository. You can also start a new discussion by [creating an issue](https://github.com/MeetMangrove/playbook/issues/new).
 

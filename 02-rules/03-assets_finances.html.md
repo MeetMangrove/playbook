@@ -2,9 +2,9 @@
 title: Finances & Assets
 ```
 
-### Buying something for mangrove
+### Buying something for Mangrove
 
-When it has been decided that something has to be bought by you for Mangrove, please consider the following steps:
+When you are put in charge of purchasing something for Mangrove, please consider the following steps:
 
 1. Choose the best item regarding the needs
 2. Validate it with your team on the associated project

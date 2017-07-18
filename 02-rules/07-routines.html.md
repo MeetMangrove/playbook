@@ -55,7 +55,7 @@ Mangrove members are responsible for what’s happening and take responsibilitie
 
 Ex:
 
--  Internet is not working. Mangrove Members in the room find a solution.
+- Internet is not working. Mangrove Members in the room find a solution.
 - There are more people sleeping in the house than planned. Some Mangrove Members decide to sleep on the couch to let guests have beds.
 
 

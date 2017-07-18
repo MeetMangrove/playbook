@@ -14,7 +14,7 @@ The purpose of Mangrove as an organization is the professional fulfillment of it
 
 Mangrove's ideal of professional fulfillment consists of several cardinal points:
 
-- **benevolence**: we believe that working in a climate of benevolence and goodwill is both mandatory for professional wellness and a condition of efficiency. We have seen too many companies or workplaces where the climate was hard, where people were in competition with each other or had to hide who they were for fear of consequences.
+- **benevolence**: we believe that working in a climate of benevolence and goodwill is both mandatory for professional wellness and a condition of efficiency. We have seen too many companies or workplaces where the climate was hard, where people were in competition with each other or had to hide who they are for fear of consequences.
 - **trust**: we know that a climate of trust is at the root of every great collective achievement. Trust in Mangrove is by default. We see no value in managing by control or strong supervision.
 - **sense of collectiveness**: in Mangrove, we all want to succeed together, and we want to be surrounded by people with the same mindset. We value cooperation over competition, sharing over hiding and protecting, collective achievement over standing out personally.
 - **freedom**: to be engaged, and thrive at work, we strongly believe that you should be choosing the projects you work for, the way you use your time, and the location you work from. Work should not mean trading your energy for a salary, or following orders you disagree with. It means contributing to the society in the way you choose to.
