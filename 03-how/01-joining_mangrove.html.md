@@ -24,3 +24,6 @@ Mangrove values the following personal qualities of its members:
 
 Apart from these personality traits, we highly care about diversity in terms of genders, nationalities, skills and social backgrounds. The Mangrove community thrives on such diversity of individual personalities and talents that are able to unfold within it. We see differences as a source of stimulation and creativity.
 
+
+![playbook](/images/illustrations/member.gif)
+
