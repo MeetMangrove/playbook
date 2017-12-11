@@ -21,4 +21,3 @@ Responsibilities:
 - Making sure the Guests attend a retreat during their Guest period
 - Adding them to the right channels & database so they benefit from Mangrove to the full
 - Helping on the Guest’s evolution: preparing the Builder stage (if relevant) and make the Residents vote for this step
-
