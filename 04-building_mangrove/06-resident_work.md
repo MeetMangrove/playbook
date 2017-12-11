@@ -2,7 +2,6 @@
 title: Doing Resident’s Work
 ```
 
-
 ### Residents
 
 Residents have special rights and duties inside Mangrove. This goes on top of the responsibilities they take in a specific track.
