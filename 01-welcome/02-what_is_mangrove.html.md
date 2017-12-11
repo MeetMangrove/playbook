@@ -17,5 +17,3 @@ Mangrove, as an organization, has a unique **purpose**: **the personal growth of
 
 It is not owned by anyone and is not led by an identified leader. It is organic and **inspired from new kinds of organizations**, like the [Teal Organization](http://www.reinventingorganizationswiki.com/Teal_Organizations).
 
-
-![mangrove](/images/illustrations/what.gif)
