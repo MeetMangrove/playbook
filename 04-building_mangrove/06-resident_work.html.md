@@ -22,4 +22,3 @@ Their rights:
 
 
 **Finances and legal** aspects are managed by two residents. The people in charge change every year. They are coordinating financial decisions and communicating with the rest of the community the state of finance and legal. The goal is to not spend more money that we get.
-In the long term, Mangrove hubs must become financially independent.
