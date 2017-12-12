@@ -18,4 +18,4 @@ Conflicts happen. It's ok.
 
 **Step 3**
 
-- If it doesn't work, ask advice around you to determine if a [Membership Issue](/important_agreements/membership_issues) is at stake. If it is the case, you can start related actions. If not, you and the other members helping you will need to get creative about this conflict.
+- If it doesn't work, ask advice around you to determine if a [Membership Issue](/important-agreements/membership-issues) is at stake. If it is the case, you can start related actions. If not, you and the other members helping you will need to get creative about this conflict.
