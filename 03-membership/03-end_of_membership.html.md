@@ -8,5 +8,5 @@ When a member isn’t able to participate anymore, they should share an update o
 
 If the member becomes inactive during the first 3 months of their membership, they will have to start the Builder stage again if they come back. If it happens during the second half of the Builder period, they will resume where they had stopped.
 
-Problems with a member’s behavior can also lead to the end of membership. It’s discussed case by case within the Residents (see Membership issues in Important Agreements).
+Problems with a member’s behavior can also lead to the end of membership. It’s discussed case by case within the Residents (see [Membership Issues](/important-agreements/membership-issues) in Important Agreements).
 
