@@ -1,5 +1,5 @@
 ```
-title: Issues Management
+title: Conflict Resolution
 ```
 
 Conflicts happen. It's ok.
