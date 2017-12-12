@@ -14,7 +14,7 @@ Conflicts happen. It's ok.
 
 **Step 2**
 
-- If it doesn't work, choose a third person as a facilitator. This person will help you to sort things out.
+- If it doesn't work, choose a third person (preferably a Resident) as a facilitator. This person will help you to sort things out.
 
 **Step 3**
 
