@@ -2,7 +2,7 @@
 title: The Mangrove Foundations
 ```
 
-More specifically, Mangrove **relies on three foundations** to help its members grow :
+Mangrove **relies on three foundations** to help its members grow :
 
 - **Regular interactions**: sharing thoughts and having fun with Mangrove members on a daily or weekly basis creates an amazing foundation for personal enrichment. That’s why we share offices, organize events and often go on retreats together!
 
