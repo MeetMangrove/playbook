@@ -4,7 +4,7 @@ title: Dividing the efforts: The Tracks
 
 On a more practical level, we divide the efforts to build Mangrove into tracks.
 
-We have 5 tracks: Catalysts, Connectors, Greeters, Hunters and Retreat planners.
+We have 5 tracks: [Catalysts](/building-mangrove/fostering-mutual-help), [Connectors](/building-mangrove/encouraging-daily-interactions), [Greeters](/building-mangrove/expanding-mangrove), [Hunters](/building-mangrove/expanding-mangrove) and [Retreat planners](/building-mangrove/encouraging-daily-interactions).
 
 ![mangrove](/images/illustrations/the-tracks.png)
 
