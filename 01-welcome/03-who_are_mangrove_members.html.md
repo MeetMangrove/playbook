@@ -2,7 +2,7 @@
 title: Who are Mangrove members
 ```
 
-### Mangrove members are people who share Mangrove's values and a common mindset:
+### Mangrove members are people who share Mangrove's values, and a common mindset made of:
 
 - **openness and curiosity**: Mangrove wouldn’t exist if its first members weren’t interested in different lifestyle, and open to listen to new and uncommon ideas. 
 - **sense of collectiveness**: our community values cooperation over competition, sharing over hiding, collective achievement over standing out individually.
