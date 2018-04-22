@@ -1,5 +1,5 @@
 ```
-title: Who are Mangrove members
+title: Who are Mangrove Members
 ```
 
 Mangrove members are people who share Mangrove's values, and a common mindset made of:
