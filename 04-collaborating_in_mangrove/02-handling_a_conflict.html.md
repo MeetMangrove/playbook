@@ -1,5 +1,5 @@
 ```
-title: Handling a conflict
+title: Handling a Conflict
 ```
 
 Conflicts happen. It's ok.
