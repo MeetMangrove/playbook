@@ -16,3 +16,4 @@ We are gathered around three values : **freedom**, **benevolence** and **opennes
 
 Mangrove is not owned by anyone and is not led by an identified leader. It is organic and **inspired from new kinds of organizations**, like the [Teal Organization](http://www.reinventingorganizationswiki.com/Teal_Organizations). It is a non-profit organization.
 
+![mangrove](/images/illustrations/what.gif)
