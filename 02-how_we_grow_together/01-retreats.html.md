@@ -4,7 +4,7 @@ title: Retreats
 
 {under construction}
 
-- **Retreats are our main way of growing together**. {Write here a text inspired from verbatims from the Summit telling what retreats brought to our members}
+**Retreats are our main way of growing together**. {*Write here a text inspired from what people said the summit about what retreats bought to them. search for "Tour de table 2 : Qu’est-ce que vous a apporté Mangrove" in Slack to get the debrief*}
 
 What is a retreat ?
 {to rerwrite : *we gather at a retreat somewhere in the world, where people from different hubs mix. We typically rent a nice and spacious house or villa for a few weeks, in an relaxing and isolaled place. We spend time getting to know each other, helping each other on our projects, and working remotely.*
