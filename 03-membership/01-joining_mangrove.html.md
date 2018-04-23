@@ -10,7 +10,7 @@ title: Joining Mangrove
   2. Good fit with the group
   3. Will and ability to get actively engaged in the community.
   
-- The first six month, the new member is in Certainty Period. The role of this period is to make sure that he/she finds its place in Mangrove and really participates.
+- The first six month, the new member is in Certainty Period. The role of this period is to make sure that he/she finds its place in Mangrove and really participates. *Two former members ensure the onboarding of the new member and are available to answer all her/his questions.* **(<- decide if we keep this or not)**
 - During this period, he/she has to organize one online or hub event, and to take part to a Retreat Squad.
 - At the end of the Certainty Period, the Residents validate the membership and he/she becomes a member for good. If unfortunately, the person did not participate as described in "Being a Member", the membership will end there.
 
