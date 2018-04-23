@@ -6,9 +6,9 @@ To keep growing together requires more than just planning retreats and events. I
 
 Residents give a direction to Mangrove by:
 
-  - Calls mensuels (hubs, retraites, nouveaux)
-  - Ceux qui viennent aux summits
-  - Writing & Updating Playbook [1]
+  - Gathering during Summits every 6 months to share their learnings and update Mangrove's vision and strategy.
+  - Doing monthly calls (hubs, retraites, nouveaux)
+  - Writing & Updating the Playbook [1]
   
 Efforts within Mangrove has to go in a common direction. Residents coordinate them:
 
