@@ -4,8 +4,9 @@ title: Retreats
 
 {under construction}
 
-- Retreats are where all the "growing together" happens. {Write here a text inspired from verbatims from the Summit telling what retreats brought to our members}
+- **Retreats are our main way of growing together**. {Write here a text inspired from verbatims from the Summit telling what retreats brought to our members}
 
+What is a retreat ?
 Retreats are : {describe here what is a retreat using elements from the "Retreat Checklist" in the Drive. Ex : 8 members and 4 new people ; close to nature ; what is the spirit in a retreat ; ..}
 
 - Retreats are planned by a **Retreat Squad** made of 3-4 members
