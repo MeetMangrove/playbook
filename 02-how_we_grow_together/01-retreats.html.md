@@ -23,4 +23,10 @@ Retreat recruitements are targetted in hubs where we want to grow the community 
    - communicate after the retreat
    - {write this from **"How to organize a Mangrove retreat"** doc}
 
-{write what Retreat Planning Coordinators are expected to do and not to do}
+- {write what Retreat Planning Coordinators are expected to do and not to do} :
+
+   - maintaining a consistent retreats planning
+   - motivate Retreat Squads made of newer and more experienced members
+   - coaching Retreat Squads
+   - helping Retreat Squads to maintain a Retreats Organizer Guide, consistent accross retreats
+   - organize the *feedback/learning* for each retreat
