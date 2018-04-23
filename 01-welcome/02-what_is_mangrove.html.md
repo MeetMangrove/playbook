@@ -4,7 +4,7 @@ title: What is Mangrove
 
 **We are a community of creators who share the same values and gather around retreats.**
 
-**Doing so, we grow together.** We **help each** other and **build a new lifestyle** closer to our shared ideal. We also put efforts into **constantly expanding** to other like-minded people.
+Doing so, **we grow together.** We **help each** other and **build a new lifestyle** closer to our shared ideal. We also put efforts into **constantly expanding** to other like-minded people.
 
 We are gathered around three values : **freedom**, **benevolence** and **openness**.
 
