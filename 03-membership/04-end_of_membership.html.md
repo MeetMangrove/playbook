@@ -8,5 +8,5 @@ When a member isn’t able to participate anymore, they should share an update o
 
 If the member becomes inactive during the first 3 months of their membership, they will have to start again their Certainty Period from the beginning if they come back.
 
-Problems with a member’s behavior can also lead to the end of membership. It’s discussed case by case within the Residents (see [Membership Issues](/important-agreements/membership-issues) in Important Agreements).
+Problems with a member’s behavior can also lead to the end of membership. It’s discussed case by case within the Residents (see [Membership Issues](/membership/membership-issues) in Important Agreements).
 
