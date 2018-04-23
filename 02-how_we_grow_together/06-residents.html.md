@@ -1,5 +1,5 @@
 ```
-title: Doing Resident’s Work
+title: Residents
 ```
 
 ### Residents
