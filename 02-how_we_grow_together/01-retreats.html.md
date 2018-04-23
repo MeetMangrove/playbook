@@ -17,6 +17,10 @@ Retreats are : {describe here what is a retreat **using elements from the "Retre
 
 Retreat recruitements are targetted in hubs where we want to grow the community (#1 was Paris, #2 is Berlin)
 
-{write quickly what a retreat squad is expected to do}
+- {write quickly what a retreat squad is expected to do} :
+
+   - communicate before the retreat to attract applicants fitting with our criteria
+   - communicate after the retreat
+   - {write this from **"How to organize a Mangrove retreat"** doc}
 
 {write what Retreat Planning Coordinators are expected to do and not to do}
