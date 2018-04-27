@@ -2,30 +2,30 @@
 title: Residents Work
 ```
 
-To keep growing together requires more than just planning retreats and events. It also requires to stay connected to members's desires and feelings about Mangrove, in order to draw a direction for the community that fulfills all of us. This important work is taken care of by a group of 10-15 particularly involved members, the Residents.
+To keep our community growing together requires more than regular retreats and events. It is also necessary to keep track of the members' evolving needs, desires and feelings towards Mangrove. This helps steer Mangrove towards the direction that best fulfills all its members. This important work is undertaken by a group of dedicated members, the Residents.
 
-Residents give a direction to Mangrove by:
+Residents help set the direction of Mangrove by:
 
-  - Gathering during Summits every 6 months to share their learnings and update Mangrove's vision and strategy.
-  - Doing monthly calls (hubs, retraites, nouveaux)
-  - Writing & Updating the Playbook [1]
-  
-Efforts within Mangrove has to go in a common direction. Residents coordinate them:
+  - Gathering during Summits every 6 months to discuss their learnings and update Mangrove's vision and strategy.
+  - Holding monthly calls to discuss topics such as hubs, retreats and new members
+  - Writing and updating the Playbook [1]
 
-  - Retreats Planning Coordinators and Hub/Online Events Coordinators are residents 
-  - Tech leadership (the tools & bots we use) is also ensured by residents
-  
-Having members in the community who deeply share the same values is also key for growing together. Residents are in charge of ensuring this by managing the memberships:
+Residents also coordinate some efforts within Mangrove to ensure a consistent direction:
 
-  - validate which new applicants can participate to a first retreat
-  - validate Certainty periods of new members
-  - Major Conflict resolutions & Membership Issues
+  - Retreat Planning Coordinators and Event Coordinators are picked among Residents
+  - Tech leadership (the tools & bots we use) is also ensured by Residents
 
-And of course, some administration work is needed to make all this work:
+In addition, Residents help ensure that new members who join the community deeply share the same values, which is also key for growing together. They do so by overseeing the membership process:
 
-  - **Finances and legal** aspects are managed by two residents. The people in charge change every year. They are coordinating financial decisions and communicating with the rest of the community the state of finance and legal.
+  - Validate which applicants can participate to a first retreat
+  - Confirm Certainty periods of new members
+  - Resolve Major Conflicts and Membership Issues
+
+Finally, some administrative tasks are needed to make all this work:
+
+  - Financial and legal aspects are managed by two Residents, who change every year. They hold positions of President and Treasurer of the legal entity behind Mangrove (registered as a French *Association*), coordinate financial decisions, and share with the rest of the community the state of finances and legal matters.
 
 
 ---
 
-***[1] Playbook evolutions:** Changes to the playbook must reflect a collective agreement that the residents have reached, online or during a collective intelligence work as done during a Summit. Changes can be made by any Resident ; all residents must be explicitely and quickly informed about it. If any resident has a veto on the changes, the playbook is rolled back to the previous version, with which everyone agreed.*
+**[1] Playbook updates** must reflect a collective agreement that the Residents have reached, online or during collective intelligence work as done during a Summit. Changes can be made by any Resident; all Residents must be explicitly and quickly informed about it. Any resident has a right to veto the changes, in which case the Playbook is reverted back to the latest version which had general consensus.
